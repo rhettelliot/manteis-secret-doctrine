@@ -1,11 +1,11 @@
 # APPENDIX B: SOURCE MATERIAL INDEX
 
-This index maps the principal source material — The Architect's *The Secret Doctrine* (1888), Volume I: Cosmogenesis and Volume II: Anthropogenesis — to the operational protocols in this manual. Citations point to the relevant sections, Stanzas, and approximate locations in the source text held in the project repository.
+This index maps the principal source material — The Architect's *The Source Text* (1888), Volume I: Cosmogenesis and Volume II: Anthropogenesis — to the operational protocols in this manual. Citations point to the relevant sections, seed teachings, and approximate locations in the source text held in the project repository.
 
 ## B.1 GENERAL SOURCE DESCRIPTION
 
-- **Vol. I — Cosmogenesis** (~195,000 words): Proem and Stanzas I–VII. Covers the origin of manifestation, the rendering layer, frequency dynamics, fractal architecture, and the sevenfold structure of the cosmos and the human being.
-- **Vol. II — Anthropogenesis** (~412,000 words): Stanzas I–XII and subsequent commentaries. Covers the Root Races, the Atlantean catastrophe, Rounds and Globes, Karma, the constitution of man, and the future synthesis of the Sixth and Seventh Root Races.
+- **Vol. I — Cosmogenesis** (~195,000 words): Proem and Seed Teachings I–VII. Covers the origin of manifestation, the rendering layer, frequency dynamics, fractal architecture, and the sevenfold structure of the cosmos and the human being.
+- **Vol. II — Anthropogenesis** (~412,000 words): Seed Teachings I–XII and subsequent commentaries. Covers the evolutionary epochs, the Atlantean catastrophe, Rounds and Globes, Karma, the constitution of man, and the future synthesis of the Sixth and Seventh evolutionary epochs.
 
 The source file used for this reframing is `source/secret_doctrine_vol2_anthropogenesis.txt` (Vol. II) and the cosmogenic passages referenced in the outline (Vol. I).
 
@@ -14,8 +14,8 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 | Source Location | Topic | Mapped Protocol |
 |---|---|---|
 | Proem, § III — Primordial Substance and Divine Thought | Root Substrate, The Absolute Context, Substrate Medium as substrate | Chapter 00 — Preface (Substrate Awareness) |
-| Stanza I — The Night of the Universe | Cosmic Ideation, Universal Mind, the Central Point | Chapter 01 — The Rendering Layer |
-| Stanzas II–III, §§ III–IV | Execution Force, Active Cycle/Recovery Cycle, seven planes, vibration | Chapter 02 — Frequency Dynamics |
+| Seed Teaching I — The Night of the Universe | Cosmic Ideation, Universal Mind, the Central Point | Chapter 01 — The Rendering Layer |
+| Seed Teachings II–III, §§ III–IV | Execution Force, Active Cycle/Recovery Cycle, seven planes, vibration | Chapter 02 — Frequency Dynamics |
 | §§ V–VII — Mundane Egg, Days and Nights of The Architect | Fractal architecture, macrocosm/microcosm, periodicity | Chapter 03 — Fractal Architecture |
 | Vol. I, § on the Seven Principles | Physical-Body, Vital-Body, Drive Layer-rupa, Cognitive Layer, etc. | Chapter 06 — Boundary Systems |
 
@@ -23,16 +23,16 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 
 | Source Location | Topic | Mapped Protocol |
 |---|---|---|
-| Stanzas III–IX | Root Races I–VII; ethereal through mental phases | Chapter 04 — Phase Architecture |
-| Preliminary Notes — Atlantis, Lemuria, Hyperborea | Geographic and racial epochs as phase metaphors | Chapter 04 — Phase Architecture |
-| Stanza X — History of the Fourth Race | Atlantean peak, material power, hubris, destruction | Chapter 04 — Phase Architecture (Danger Zone) |
-| Stanza XI — Civilization and Destruction of Fourth and Fifth Races | Atlantean collapse, transition to Aryan mental phase | Chapter 04 — Phase Architecture |
+| Seed Teachings III–IX | Evolutionary epochs I–VII; ethereal through mental phases | Chapter 04 — Phase Architecture |
+| Preliminary Notes — Atlantis, Lemuria, Hyperborea | Geographic and epochal phases as phase metaphors | Chapter 04 — Phase Architecture |
+| Seed Teaching X — History of the Fourth Epoch | Atlantean peak, material power, hubris, destruction | Chapter 04 — Phase Architecture (Danger Zone) |
+| Seed Teaching XI — Civilization and Destruction of Fourth and Fifth Epochs | Atlantean collapse, transition to the mental phase | Chapter 04 — Phase Architecture |
 | §§ on Rounds and Globes (~284 mentions of "Round") | Cyclic progression through seven globes | Chapter 05 — The Cycle Engine |
 | § on Karma (~89 mentions) | Causal consequence, rebirth, ethical causation | Chapter 05 — The Cycle Engine |
 | § on Monads (~127 mentions) | Essential self, reincarnating identity | Chapter 05 — The Cycle Engine |
 | § on Accumulated Dispositions and constitution of man | Aggregates, dispositions, auric field, Attachment Driver | Chapter 06 — Boundary Systems |
-| Final chapters, Sixth and Seventh Root Races | Synthesis, integration, the Adept, conscious evolution | Chapter 07 — The Sovereign State |
-| Stanza XII — Fifth Race and Its Divine Instructors | Aryan mental phase, instruction, transmission | Chapter 07 — The Sovereign State |
+| Final chapters, Sixth and Seventh Epochs | Synthesis, integration, the Adept, conscious evolution | Chapter 07 — The Sovereign State |
+| Seed Teaching XII — Fifth Epoch and Its Instructors | Mental phase, instruction, transmission | Chapter 07 — The Sovereign State |
 
 ## B.4 KEY PASSAGES CITED
 
@@ -40,14 +40,14 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 |---|---|---|
 | "The Alpha and the Omega of Being are but the two facets of the one Absolute Existence" | Vol. I, Proem, § III | Chapter 00 — distinction between manifest and unmanifest substrate |
 | "Cosmic Ideation — Spirit; Cosmic Substance — the vehicle of thought" | Vol. I, Proem, § III | Chapter 01 — rendering layer as ideation plus substance |
-| "Primordial Substance is Substrate Medium, the Upadhi of divine thought" | Vol. I, Proem, § III | Chapter 01 — medium of mental manifestation |
-| "The Monads of the presentments of men of the Third Round" | Vol. II, Stanza III, commentary | Chapter 04 — phase development of the essential self |
-| "Man needs four flames and three fives to become one on Earth" | Vol. II, Stanza III, commentary | Chapter 06 — layered self and integration of principles |
-| "The higher Pitris had no hand in his physical creation" | Vol. II, Stanza IV, commentary | Chapter 04 — the gradual densification of the human system |
-| "The 'eye of Siva' did not become entirely atrophied before the close of the Fourth Race" | Vol. II, Stanza IX–X, commentary | Chapter 04 — Atlantean loss of inner perception |
-| "The heaviest Karma of the Fifth Race was generated by our Monads" in Atlantean bodies | Vol. II, Stanza IX, commentary | Chapter 05 — karma as accumulated causal architecture |
-| "It is only the knowledge of the constant re-births of one and the same individuality throughout the life-cycle" | Vol. II, Stanza IX, commentary | Chapter 05 — the Monad and recurring cycles |
-| "The great Adepts and Initiated ascetics will 'multiply'... in the Seventh Root-Race" | Vol. II, Stanza XII, commentary | Chapter 07 — transmission and the future synthesis |
+| "Primordial Substance is Substrate Medium, the vehicle of divine thought" | Vol. I, Proem, § III | Chapter 01 — medium of mental manifestation |
+| "The Monads of the presentments of men of the Third Round" | Vol. II, Seed Teaching III, commentary | Chapter 04 — phase development of the essential self |
+| "Man needs four flames and three fives to become one on Earth" | Vol. II, Seed Teaching III, commentary | Chapter 06 — layered self and integration of principles |
+| "The higher progenitors had no hand in his physical creation" | Vol. II, Seed Teaching IV, commentary | Chapter 04 — the gradual densification of the human system |
+| "The 'eye of Siva' did not become entirely atrophied before the close of the Fourth Race" | Vol. II, Seed Teaching IX–X, commentary | Chapter 04 — Atlantean loss of inner perception |
+| "The heaviest Karma of the Fifth Race was generated by our Monads" in Atlantean bodies | Vol. II, Seed Teaching IX, commentary | Chapter 05 — karma as accumulated causal architecture |
+| "It is only the knowledge of the constant re-births of one and the same individuality throughout the life-cycle" | Vol. II, Seed Teaching IX, commentary | Chapter 05 — the Monad and recurring cycles |
+| "The great Adepts and initiated ascetics will 'multiply'... in the seventh evolutionary epoch" | Vol. II, Seed Teaching XII, commentary | Chapter 07 — transmission and the future synthesis |
 
 ## B.5 METHODOLOGICAL NOTE
 
@@ -55,7 +55,7 @@ The reframing process followed the same pipeline used for *The Kybalion* tactica
 1. Acquire complete source text.
 2. Identify dominant recurring terms and themes through frequency analysis.
 3. Map themes to the practical problems of secular knowledge workers.
-4. Strip unnecessary Sanskrit while retaining terms with unique operational meaning.
+4. Strip unnecessary archaic terminology while retaining terms with unique operational meaning.
 5. Render each chapter as a protocol with objective, class, threat vector, operational content, and field diagnostics.
 
 All chapter titles use the "PROTOCOL" framing to maintain continuity with the existing Egregore tactical library.
@@ -77,14 +77,14 @@ The following term-frequency counts were generated from the Vol. II source file 
 | Root Race | 19 (chapter titles and structural uses) | Chapter 04 — Phase Architecture |
 | Adept | 95 | Chapter 07 — The Sovereign State |
 
-Note: "Root Race" appears more densely in the structural headings and tables of contents than in running prose; its conceptual presence is distributed across Stanzas III–XII.
+Note: "Root Race" appears more densely in the structural headings and tables of contents than in running prose; its conceptual presence is distributed across Seed Teachings III–XII.
 
 ## B.7 READING PROTOCOL FOR SOURCE MATERIAL
 
 For operators who wish to read the source directly, the recommended sequence is:
 1. Read the Proem of Vol. I for the three fundamental propositions.
-2. Read Stanzas I–III of Vol. I for the rendering layer and frequency dynamics.
-3. Read Stanzas III–XII of Vol. II for the Root Race, Atlantean, Aryan, and Adept material.
+2. Read Seed Teachings I–III of Vol. I for the rendering layer and frequency dynamics.
+3. Read Seed Teachings III–XII of Vol. II for the evolutionary-epoch, Atlantean, mental-phase, and Adept material.
 4. Read the commentary sections on Karma, Monads, and Rounds in Vol. II for the cycle engine.
 5. Read the sections on the seven principles and the auric field for the boundary systems.
 

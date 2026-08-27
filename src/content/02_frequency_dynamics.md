@@ -1,14 +1,14 @@
 # DISTINCTION 02: FREQUENCY DYNAMICS
-**Principle Source:** Execution Force, Active Cycle, and Recovery Cycle (The Secret Doctrine, Vol. I, Stanzas II–III, §§ III–IV, VII)
+**Principle Source:** Execution Force, Active Cycle, and Recovery Cycle (The Source Text, Vol. I, Stanzas II–III, §§ III–IV, VII)
 **Operational Class:** State Engineering and Temporal Architecture
 **Threat Vector:** Constant Low-Grade Active Cycle
 
 > "Execution Force is the energizing and guiding intelligence in the Universal Electric or Vital Fluid."
-> — *Archival Protocol: The Secret Doctrine*
+> — *Archival Protocol: The Source Text*
 
 ### 1. SOURCE ANCHOR: WHAT THE ARCHITECT SAID
 
-In Volume I, The Architect describes Execution Force as the active, intelligent force in the "Universal Electric or Vital Fluid" — the agent that makes latent principles manifest. Execution Force is not a person. It is a function: the bridge between an unmanifest possibility and its organized expression. Without Execution Force, spirit remains abstract. With Execution Force, the cosmos begins to differentiate, move, and become knowable.
+In Volume I, The Architect describes Execution Force as the active, intelligent force in the "Universal Electric or Vital Fluid" — the agent that makes latent principles manifest. Execution Force is not a person. It is a function: the bridge between an unmanifest possibility and its organized expression. Without Execution Force, cognitive remains abstract. With Execution Force, the cosmos begins to differentiate, move, and become knowable.
 
 The same volume frames the life of the universe as a pulse. **Active Cycle** is the period of cosmic activity — the Day of The Architect — during which worlds exist, laws operate, and beings evolve. **Recovery Cycle** is the period of relative rest — the Night of The Architect — in which the manifested universe is reabsorbed into its latent state. These periods are infinite in sequence; there was no first and there will be no last. The cosmos is not a machine that runs continuously. It is an engine that breathes.
 
@@ -18,7 +18,7 @@ The Architect also insists on Seven-layer structure: seven planes, seven princip
 
 The primary failure of the civilian operator is the belief that willpower is an infinite resource. They treat execution as a moral issue: if they "wanted it enough," they would act. When they do not act, they interpret the failure as character deficiency rather than a mismatch between energetic frequency and the task at hand.
 
-The Architect calls the bridge between spirit and matter **Execution Force**. In her system, Execution Force is the cosmic electricity — the intelligent, organizing force that turns latent potential into active form. It is not desire. It is not intention. It is the current that carries intention across the gap and makes it *happen*.
+The Architect calls the bridge between cognitive and matter **Execution Force**. In her system, Execution Force is the cosmic electricity — the intelligent, organizing force that turns latent potential into active form. It is not desire. It is not intention. It is the current that carries intention across the gap and makes it *happen*.
 
 For the Sovereign Operator, Execution Force maps cleanly onto **execution force**. This is the resource you spend when you convert a decision into an outcome. It is not motivation. It is not discipline. It is the actual energetic voltage available to the nervous system for volitional action. When Execution Force is high, you move through resistance. When Execution Force is depleted, the same task feels impossible.
 
@@ -44,7 +44,7 @@ The Architect's cosmos is divided into seven planes or principles, each a differ
 
 **Low-Frequency Integrative Mode** — rest, sleep, reflection, exercise, unstructured time, conversation without agenda. This is Recovery Cycle mode. It appears unproductive to the civilian mind. It is the phase in which the unconscious reorganizes the work of the conscious mind.
 
-**No-Frequency Witness Mode** — meditation, breathwork, sensory deprivation, deliberate solitude. This is the mode in which you observe the renderer itself. It produces nothing visible, but it recalibrates everything that does produce.
+**No-Frequency Witness Mode** — witness mode, recovery protocol, sensory deprivation, deliberate solitude. This is the mode in which you observe the renderer itself. It produces nothing visible, but it recalibrates everything that does produce.
 
 The Sovereign Operator sequences these modes deliberately. They do not attempt deep work immediately after a crisis. They do not schedule negotiation after a rest day. They match the frequency to the task, and they protect the transitions between modes as carefully as the modes themselves.
 
@@ -115,7 +115,7 @@ The civilian waits for the right mood. The Sovereign Operator engineers frequenc
 
 **Protocol 01 — The Downshift.** When Execution Force is depleted and the task still matters, do not push harder. Slow the breath, reduce sensory input, and lower the cognitive target. A 50% task completed in recovery mode preserves the system; a 100% task attempted in collapse mode damages it. The downshift is not surrender. It is damage control with dignity.
 
-**Protocol 02 — The State Anchor.** Before any high-stakes activity, establish a single physiological anchor that reliably produces the required frequency. For tactical tasks, this might be a brisk walk or cold water. For constructive tasks, it might be a specific playlist, a closed door, and a written objective. For recovery, it might be a ritual that signals the nervous system that work is over. The anchor is a conditional trigger that installs the mode on demand.
+**Protocol 02 — The State Anchor.** Before any high-stakes activity, establish a single physiological anchor that reliably produces the required frequency. For tactical tasks, this might be a brisk walk or cold water. For constructive tasks, it might be a specific playlist, a closed door, and a written objective. For recovery, it might be a protocol that signals the nervous system that work is over. The anchor is a conditional trigger that installs the mode on demand.
 
 **Protocol 03 — The Weekly Reset.** One extended Recovery Cycle period per week is non-negotiable. This is not a day off for errands. It is a deliberate return to baseline: limited input, limited output, physical movement, social connection or solitude as needed, and no performance. The weekly reset prevents the accumulation of recovery debt that produces quarterly collapse.
 

@@ -1,8 +1,8 @@
 # APPENDIX A: TERMINOLOGY MAP
 
-The following table maps esoteric terms used in *The Secret Doctrine* into plain English and operational meaning. Sanskrit and other technical terms are kept only where they carry a meaning that has no concise English equivalent. On first use in the main text, each term is paired with its plain-English translation.
+The following table maps all source terms used in this manual into plain English and operational meaning. The "Original Term" column uses operational or technical language only. On first use in the main text, each term is paired with its plain-English translation.
 
-| The Architect / Esoteric Term | Plain English | Operational Meaning |
+| Original / Operational Term | Plain English | Operational Meaning |
 |---|---|---|
 | Absolute / The Absolute Context | The unknowable context | The substrate before distinction; not a thing you contact, but the ground that makes all contact possible |
 | Substrate Medium | Primordial substance / medium of thought | The informational field in which attention and intention propagate; the medium, not the message |
@@ -22,29 +22,13 @@ The following table maps esoteric terms used in *The Secret Doctrine* into plain
 | Accumulated Dispositions | Aggregates / accumulated tendencies | The bundle of automatic responses, habits, and dispositions carried across cycles |
 | Attachment Driver | Thirst / craving / attachment | The clinging that keeps a cycle running by refusing to let a form complete or change |
 | Adept | The master / the wise | The self-directed operator who has integrated the phases, cycles, and layers consciously |
-| Dhyan-Chohan | Higher intelligence / spiritual being | A developmental possibility of the human monad; what a human becomes when the system is fully integrated |
+| Integrated Operator | Higher intelligence / spiritual being | A developmental possibility of the human monad; what a human becomes when the system is fully integrated |
 | Third Eye | The organ of inner perception | The capacity to perceive patterns and causes not available to ordinary analysis |
-| Stanza of The Original Specification | Source verse / seed teaching | A compressed statement of an original principle; the axiomatic source from which doctrines unfold |
+| Seed Teaching of The Original Specification | Source verse / seed teaching | A compressed statement of an original principle; the axiomatic source from which doctrines unfold |
 | Auric Field | The human energy field | The personal boundary system; the selective membrane that regulates what enters and exits the self |
-| Pitris | Progenitors / fathers | The formative influences — internal or external — that shape a system's early architecture |
+| Progenitors | Progenitors / fathers | The formative influences — internal or external — that shape a system's early architecture |
 | Phase Regulator | The archetypal man / lawgiver | The prototype for a phase or cycle; the standard against which a system's development is measured |
-| Sishta | Remnant / saved seed | The preserved core knowledge or capacity that survives a collapse and seeds the next cycle |
-| Lha / Operational Intelligence | Shining one / nature intelligence | A functional principle operating above the human scale; a pattern too large to be personalized |
+| Preserved Seed | Remnant / saved seed | The preserved core knowledge or capacity that survives a collapse and seeds the next cycle |
+| Operational Intelligence | Shining one / nature intelligence | A functional principle operating above the human scale; a pattern too large to be personalized |
 
 **Use Protocol:** When reading the source material, translate each unfamiliar term through the "Plain English" column first. If the operational meaning is still unclear, the term is being used poetically rather than functionally, and can be set aside.
-
-
-## B.6 TERMS RETAINED WITHOUT ENGLISH EQUIVALENT
-
-The following terms are kept in Sanskrit or technical form because their English translations are either misleading or require longer explanation than a single phrase allows. Each appears in the main text with its operational meaning.
-
-| Term | Why Retained | Operational Anchor |
-|---|---|---|
-| Execution Force | "Willpower" is too narrow; Execution Force is the bridge force that turns ideation into manifestation | Executive energy that converts intention into action |
-| Active Cycle / Recovery Cycle | "Day/night" loses the cosmological scale | Active phase and rest phase of any system |
-| Accumulated Disposition | "Aggregate" is abstract; the term captures the bundle of tendencies carried forward | Automatic inherited/accrued response patterns |
-| Attachment Driver | "Craving" carries moral weight; Attachment Driver is the mechanical clinging that sustains cycles | Attachment that prevents pattern completion |
-| Dhyan-Chohan | No English equivalent captures the developmental scale | Higher-order intelligence that a human monad can become |
-| Sishta | "Remnant" or "seed" is close but misses the deliberate preservation aspect | Preserved core capacity that survives collapse |
-
-All other Sanskrit terms have been translated or omitted unless they serve a unique operational function.

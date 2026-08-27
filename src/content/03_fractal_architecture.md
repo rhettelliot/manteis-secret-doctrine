@@ -1,10 +1,10 @@
 # DISTINCTION 03: FRACTAL ARCHITECTURE
-**Principle Source:** The Mundane Egg, The Days and Nights of The Architect, and the Law of Correspondence (The Secret Doctrine, Vol. I, §§ V–VII)
+**Principle Source:** The Mundane Egg, The Days and Nights of The Architect, and the Law of Correspondence (The Source Text, Vol. I, §§ V–VII)
 **Operational Class:** Structural Analysis and Cross-Scale Pattern Recognition
 **Threat Vector:** Scale-Blindness
 
-> "The Egg was incorporated as a sacred sign in the cosmogony of every people on the Earth... it represented most successfully the origin and secret of being."
-> — *Archival Protocol: The Secret Doctrine*
+> "The Egg was incorporated as a structural sign in the cosmogony of every people on the Earth... it represented most successfully the origin and secret of being."
+> — *Archival Protocol: The Source Text*
 
 ### 1. SOURCE ANCHOR: WHAT THE ARCHITECT SAID
 
@@ -26,7 +26,7 @@ The practical question is never "What is happening?" It is "What kind of egg is 
 
 ### 3. AS ABOVE, SO BELOW — THE FRACTAL REPLICATION OF DYNAMICS
 
-The Secret Doctrine insists that the same patterns operate at every scale. The macrocosm is the microcosm writ large. This is not mysticism. It is the observation that complex systems produce self-similar dynamics across levels because they are governed by the same relational rules.
+The Source Text insists that the same patterns operate at every scale. The macrocosm is the microcosm writ large. This is not structural analysis. It is the observation that complex systems produce self-similar dynamics across levels because they are governed by the same relational rules.
 
 A civilization that burns out follows the same sequence as a body that burns out: prolonged activation, boundary erosion, core depletion, collapse, and either recovery or dissolution. A company that cannot rest between sprints is the same dynamic as a person who cannot sleep. A market bubble is the same shape as a manic episode. A failed project is the same shape as a failed relationship — misaligned core, porous boundary, premature scaling.
 

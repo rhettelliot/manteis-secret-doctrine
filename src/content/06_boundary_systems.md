@@ -4,8 +4,8 @@
 **Operational Class:** Layered Self-Architecture and Perimeter Defense
 **Threat Vector:** Leakage — One Layer Hijacking the Entire System
 
-> "Man needs four flames and three fives to become one on Earth."
-> — *Archival Protocol: The Secret Doctrine*
+> "The operator needs a stable stack to become one coherent system on Earth."
+> — *Archival Protocol: The Source Text*
 
 ## 1. THE LAYERED SELF: YOU ARE NOT ONE THING
 
@@ -27,7 +27,7 @@ The operator's task is not to "fix" the self. It is to keep the layers in correc
 
 ## 2. THE AURIC FIELD AS PERSONAL BOUNDARY SYSTEM
 
-The source text refers to the aura as the field surrounding the human being. Read operationally, the aura is the **personal boundary system** — the set of membranes that determine what enters the self and what stays out.
+The source text refers to the surrounding field as the operational perimeter. Read operationally, this is the **personal boundary system** — the set of membranes that determine what enters the self and what stays out.
 
 A healthy boundary system is selective. It admits nourishment: useful information, supportive relationships, aligned opportunities, restorative environments. It rejects toxins: manipulative narratives, energy-draining relationships, misaligned commitments, chronic noise.
 
@@ -37,7 +37,7 @@ Both are dysfunctions. The Sovereign Operator maintains a **responsive boundary*
 
 ## 3. THE Accumulated Dispositions: ACCUMULATED TENDENCIES THAT CARRY FORWARD
 
-The Accumulated Dispositions are described as the aggregates — the bundles of tendencies, dispositions, and habits that constitute the conditioned self. They are not the Monad. They are the accumulated operating system that the Monad has installed through repeated cycles.
+The Accumulated Dispositions are described as the bundles of tendencies, dispositions, and habits that constitute the conditioned self. They are not the Core Identity. They are the accumulated operating system that the Core Identity has installed through repeated cycles.
 
 In practical terms, the Accumulated Dispositions are your **defaults**:
 - The default response to criticism.
@@ -58,7 +58,7 @@ Example override: "When I feel criticized, I pause 10 seconds before responding.
 
 ## 4. Attachment Driver: THE ATTACHMENT THAT KEEPS THE CYCLE RUNNING
 
-Attachment Driver is usually translated as thirst, craving, or attachment. In the Cycle Engine of Chapter 05, Attachment Driver is the force that keeps the operator generating the same karma. It is the attachment to a specific outcome, identity, sensation, or story.
+Attachment Driver is the force that keeps the operator generating the same consequential pattern. It is the attachment to a specific outcome, identity, sensation, or story.
 
 Attachment Driver is not desire itself. Desire can be directional. Attachment Driver is the **clinging** — the insistence that a particular form must remain as it is. It is the refusal to let a cycle complete.
 
@@ -148,7 +148,7 @@ The Sovereign Operator treats boundary management as a **daily operational disci
 
 ## 8. SUMMARY
 
-You are not one thing. You are a layered system, and each layer has a boundary. The auric field is the operational perimeter that keeps the system intact. The Accumulated Dispositions are the legacy defaults that run automatically. Attachment Driver is the attachment that prevents the cycle from completing.
+You are not one thing. You are a layered system, and each layer has a boundary. The boundary field is the operational perimeter that keeps the system intact. The Accumulated Dispositions are the legacy defaults that run automatically. Attachment Driver is the attachment that prevents the cycle from completing.
 
 Boundary management is not selfishness. It is systems maintenance. A operator with compromised boundaries cannot render accurately, decide cleanly, or act consistently. The boundary system is what makes sovereignty possible.
 
@@ -196,7 +196,7 @@ The practical test is simple: after a day of work, can you identify which though
 
 Boundary breaches are often the mechanism by which old cycles restart. A single porous moment — answering a message from an old pattern, accepting a meeting with a known trigger, letting a boundary violation slide — can restart a Round that had nearly completed.
 
-The Sovereign Operator watches for these restart triggers. They know that the cycle does not usually return through a grand event. It returns through a small concession. The operator treats every boundary test as a cycle test. The response to the test determines whether the old karma continues or the new karma begins.
+The Sovereign Operator watches for these restart triggers. They know that the cycle does not usually return through a grand event. It returns through a small concession. The operator treats every boundary test as a cycle test. The response to the test determines whether the old consequence continues or the new consequence begins.
 
 ## 14. SUMMARY: THE BOUNDARY AS SOVEREIGN INFRASTRUCTURE
 

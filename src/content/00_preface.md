@@ -7,15 +7,15 @@ Most knowledge workers are skilled at operating within a system they have never 
 
 This is the substrate problem: you are running advanced operations on a foundation you inherited, not one you chose. The foundation includes your assumptions about what work means, what success is, what a career should look like, what relationships are for, and what you are allowed to want. You did not install these assumptions. You absorbed them from family, school, media, corporate culture, and the ambient anxiety of post-consumerist capitalism. They are now the operating system beneath your consciousness. And like any operating system, they determine what can run and what cannot.
 
-The Architect begins *The Secret Doctrine* with the same problem at cosmic scale. Before manifestation, before matter, before thought, there is the substrate. She calls it **Root Substrate** — root matter — the unmanifested basis from which all subsequent forms proceed. Behind or beyond it lies **The Absolute Context**, the boundless absolute that cannot be named or cognized directly. Between them is **Substrate Medium**, the primordial substance described as the *upadhi* — the basis or vehicle — of divine thought.
+The Architect begins *The Source Text* with the same problem at cosmic scale. Before manifestation, before matter, before thought, there is the substrate. She calls it **Root Substrate** — root matter — the unmanifested basis from which all subsequent forms proceed. Behind or beyond it lies **The Absolute Context**, the boundless absolute that cannot be named or cognized directly. Between them is **Substrate Medium**, the primordial substance described as the *upadhi* — the basis or vehicle — of primary thought.
 
 These terms are not theology. They are architecture. And the architecture says: nothing manifest can be understood without reference to the substrate that precedes it.
 
-> "Primordial Substance is Substrate Medium, the Upadhi of divine thought. In modern language, the latter would be better named cosmic ideation — Spirit; the former, cosmic substance. Matter. These, the Alpha and the Omega of Being, are but the two facets of the one Absolute Existence."
+> "Primordial Substance is Substrate Medium, the Upadhi of primary thought. In modern language, the latter would be better named cosmic ideation — cognitive; the former, cosmic substance. Matter. These, the Alpha and the Omega of Being, are but the two facets of the one Absolute Existence."
 >
-> — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
+> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
-Read this operationally. Spirit and matter are not warring metaphysical teams. They are two facets of one process. Cosmic ideation — the pattern — requires cosmic substance — the medium — to become perceivable. The medium and the pattern are inseparable. The "Absolute Existence" is not a being. It is the context in which the entire display runs.
+Read this operationally. cognitive and matter are not warring metaphysical teams. They are two facets of one process. Cosmic ideation — the pattern — requires cosmic substance — the medium — to become perceivable. The medium and the pattern are inseparable. The "Absolute Existence" is not a being. It is the context in which the entire display runs.
 
 For the knowledge worker, the equivalent statement is simpler and more brutal: your output is determined by the layer beneath your output. Your decisions are determined by the layer beneath your decisions. And that layer is usually invisible to you.
 
@@ -74,7 +74,7 @@ The Architect's framework predicts this. If Cosmic Substance and Cosmic Ideation
 
 > "Matter existing apart from perception is a mere abstraction, both of these aspects of the Absolute — Cosmic Substance and Cosmic Ideation — are mutually inter-dependent."
 >
-> — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
+> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 Translate this to operations: your circumstances and your perception of those circumstances are mutually interdependent. Change the circumstance without changing the perceptual pattern, and the pattern will re-render the same circumstance. Change the perceptual pattern, and the circumstance becomes plastic. This is why two people in the same job can experience it as prison or playground. The difference is not the job. The difference is the substrate through which the job is rendered.
 
@@ -96,7 +96,7 @@ List the operating assumptions currently running in the following domains:
 - Time: What do I believe time is? A resource to optimize? A debt to repay? A canvas?
 - Identity: What do I believe a good person is? What do I believe a successful person is?
 
-Do not edit for spirituality or self-improvement. Be concrete. If the answer is "I don't know," write that down. "I don't know" is a substrate finding.
+Do not edit for ideology or self-improvement. Be concrete. If the answer is "I don't know," write that down. "I don't know" is a substrate finding.
 
 **Phase B: Trace the Origin**
 
@@ -116,7 +116,7 @@ Test each assumption against evidence, not hope. If an assumption fails the test
 
 The inspection protocol is not a journey. It is not healing. It is not a process of becoming your best self. It is a systems audit.
 
-The Architect's text is esoteric, but her method is structural. She is mapping the architecture of manifestation, not offering consolation. The tactical reframing does the same for the individual. The goal is not to feel better. The goal is to see accurately enough to operate effectively.
+The Architect's text is architectural, but her method is structural. She is mapping the architecture of manifestation, not offering consolation. The tactical reframing does the same for the individual. The goal is not to feel better. The goal is to see accurately enough to operate effectively.
 
 Feeling better may follow. It is not the metric. The metric is whether your decisions are now running on a substrate you have chosen and verified, rather than one you absorbed by default.
 
