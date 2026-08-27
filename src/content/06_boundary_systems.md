@@ -152,5 +152,57 @@ You are not one thing. You are a layered system, and each layer has a boundary. 
 
 Boundary management is not selfishness. It is systems maintenance. A operator with compromised boundaries cannot render accurately, decide cleanly, or act consistently. The boundary system is what makes sovereignty possible.
 
+## 9. THE BOUNDARY AS DECISION QUALITY CONTROL
+
+The quality of your decisions is determined by the quality of the boundaries that protect the decision-making process. A porous boundary admits noise at the moment of choice. A rigid boundary excludes signal. Either way, the decision is degraded before it is made.
+
+The Sovereign Operator therefore treats boundary maintenance as a **decision-quality discipline**, not a personal-comfort preference. Saying no is not selfish. Filtering input is not elitist. Protecting recovery time is not indulgent. These are structural requirements for accurate rendering and clean choice.
+
+The most expensive boundary failures are not dramatic. They are the small admissions: the notification checked, the meeting accepted, the opinion absorbed, the demand complied with. Each seems trivial. Together they define the operating environment inside which all your decisions are made.
+
+## 10. REBUILDING BOUNDARIES AFTER COLLAPSE
+
+Boundary systems collapse in sequence. First, the physical layer goes — sleep, movement, nutrition. Then the vital layer — chronic stress, no recovery. Then the emotional layer — reactivity, attachment. Then the mental layer — poor input, poor decisions. By the time the operator notices, multiple layers are compromised.
+
+Rebuilding must be sequential. You cannot restore mental clarity while sleep is still broken. You cannot restore emotional stability while the vital layer is depleted. The recovery protocol is bottom-up:
+
+1. **Physical first.** Fix sleep before anything else.
+2. **Vital second.** Reduce allostatic load before adding new commitments.
+3. **Emotional third.** Process backlog before making major relational decisions.
+4. **Mental fourth.** Curate input only after the lower layers are stable.
+5. **Higher layers last.** Purpose and witness re-emerge naturally once the foundation is restored.
+
+## 11. FIELD DIAGNOSTIC 04: THE 24-HOUR BOUNDARY LOG
+
+**Objective:** Measure the actual state of your perimeter over a full day.
+
+**Procedure:**
+1. For 24 hours, log every significant input you accept and every output you emit.
+2. Classify each as Aligned, Neutral, or Misaligned with your current primary objective.
+3. At the end of the period, calculate the ratio of Aligned to Misaligned.
+4. Identify the single boundary that, if enforced, would improve the ratio the most.
+
+**Metric:** A ratio below 2:1 indicates that your system is being governed by external pacing rather than internal direction.
+
+## 12. THE BOUNDARY SYSTEM AND THE RENDERING LAYER
+
+Boundary integrity directly affects rendering quality. When the boundary is breached, the rendering layer becomes noisy. The operator begins to process signals that are not theirs to process: other people's anxieties, institutional dysfunctions, market panics, social expectations. The result is a corrupted render — decisions made from data that should have been filtered out.
+
+The Sovereign Operator therefore treats the boundary system as part of the rendering engine. A clean render requires a clean perimeter. This is not isolation. It is selectivity. The operator remains in contact with the world but does not absorb every signal the world emits.
+
+The practical test is simple: after a day of work, can you identify which thoughts, emotions, and tensions originated inside you and which originated outside you? If the distinction is blurry, the boundary has been porous.
+
+## 13. THE BOUNDARY SYSTEM AND THE CYCLE ENGINE
+
+Boundary breaches are often the mechanism by which old cycles restart. A single porous moment — answering a message from an old pattern, accepting a meeting with a known trigger, letting a boundary violation slide — can restart a Round that had nearly completed.
+
+The Sovereign Operator watches for these restart triggers. They know that the cycle does not usually return through a grand event. It returns through a small concession. The operator treats every boundary test as a cycle test. The response to the test determines whether the old karma continues or the new karma begins.
+
+## 14. SUMMARY: THE BOUNDARY AS SOVEREIGN INFRASTRUCTURE
+
+The boundary system is the infrastructure that makes all other protocols possible. Without it, the rendering layer is noisy, the cycle engine is hijacked, the phases blur together, and the frequencies collapse. With it, the operator has a stable platform from which to observe, decide, and act.
+
+The boundary is not a wall. It is a membrane. It admits what nourishes and rejects what degrades. It is maintained daily, reviewed weekly, and rebuilt when breached. It is the physical expression of sovereignty.
+
 **Status:** Boundary Systems Installed.
 **Next Phase:** The Sovereign State.

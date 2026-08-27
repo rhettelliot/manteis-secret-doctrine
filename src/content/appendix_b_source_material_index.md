@@ -59,3 +59,33 @@ The reframing process followed the same pipeline used for *The Kybalion* tactica
 5. Render each chapter as a protocol with objective, class, threat vector, operational content, and field diagnostics.
 
 All chapter titles use the "PROTOCOL" framing to maintain continuity with the existing Egregore tactical library.
+
+
+## B.6 FREQUENCY-ANALYSIS SUMMARY
+
+The following term-frequency counts were generated from the Vol. II source file as part of the mapping process. They confirm the dominant themes in the anthropogenic material and shaped the chapter allocation.
+
+| Term | Approximate Mentions in Vol. II | Primary Chapter Use |
+|---|---|---|
+| Atlantean | 233 | Chapter 04 — Phase Architecture (danger zone) |
+| Round | 400 | Chapter 05 — The Cycle Engine |
+| Cycle | 210 | Chapter 05 — The Cycle Engine |
+| Monad | 127 | Chapter 05 — The Cycle Engine |
+| Aryan | 178 | Chapter 04 — Phase Architecture (mental mastery) |
+| Lemurian | 62 | Chapter 04 — Phase Architecture (execution phase) |
+| Karma | 89 | Chapter 05 — The Cycle Engine |
+| Root Race | 19 (chapter titles and structural uses) | Chapter 04 — Phase Architecture |
+| Adept | 95 | Chapter 07 — The Sovereign State |
+
+Note: "Root Race" appears more densely in the structural headings and tables of contents than in running prose; its conceptual presence is distributed across Stanzas III–XII.
+
+## B.7 READING PROTOCOL FOR SOURCE MATERIAL
+
+For operators who wish to read the source directly, the recommended sequence is:
+1. Read the Proem of Vol. I for the three fundamental propositions.
+2. Read Stanzas I–III of Vol. I for the rendering layer and frequency dynamics.
+3. Read Stanzas III–XII of Vol. II for the Root Race, Atlantean, Aryan, and Adept material.
+4. Read the commentary sections on Karma, Monads, and Rounds in Vol. II for the cycle engine.
+5. Read the sections on the seven principles and the auric field for the boundary systems.
+
+Read tactically, not exegetically. The goal is to extract operational distinctions, not to reconstruct Blavatsky's cosmology.

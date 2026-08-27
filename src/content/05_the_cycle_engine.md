@@ -116,5 +116,37 @@ The Cycle Engine is not mystical. It is the observable fact that unresolved patt
 
 The Sovereign Operator does not resent the cycle. They study it. They identify the costume. They map the globes. They change the response. And they keep changing it until the engine has nothing left to test.
 
+## 9. THE LONG ARC: WHY CYCLES TAKE TIME
+
+The Cycle Engine does not close a loop the first time the operator responds differently. The reason is structural: a pattern is not a single decision. It is a network of neural pathways, relational contracts, environmental triggers, and identity investments. One corrected response interrupts one iteration, but the network remains.
+
+The operator must therefore treat the Cycle Engine with patience. The cycle will return. Each return is a test of whether the new response has become the default or whether it was a one-time override. The engine is not cruel; it is thorough. It will keep running until the new response is more stable than the old one.
+
+This is why insight without repetition fails. Understanding the pattern is Round One. Changing the response once is Round Two. Changing it consistently enough that the old pathway atrophies is Round Three. The cycle ends when the new behavior becomes the Skandha — when the corrected response is now the automatic one.
+
+**Operational Imperative:**
+Do not declare a cycle closed after one success. Declare it closed when the trigger no longer produces a measurable physiological or behavioral reaction. That is the proof that the engine has accepted the update.
+
+## 10. THE RELATIONSHIP BETWEEN KARMA AND CHOICE
+
+There is a common error that interprets karma as determinism. The operator reads their pattern, concludes "I am stuck with this," and stops trying. This is a misreading. Karma is not a sentence. It is a **constraint set**. Within that constraint set, choice remains absolute.
+
+The constraint set defines which patterns are likely to render. It does not define which response you will make to them. A person with a karma of conflict will find conflict. But they can choose to meet it with silence, curiosity, boundaries, escalation, or inquiry. Each response writes a different future karma.
+
+The Sovereign Operator does not complain about the constraint set. They work inside it. They know that the only way to change the constraint set is to generate new causes — causes that are different from the causes that produced the old set. Every choice is a new cause. Every new cause begins a new chain.
+
+## 11. FIELD DIAGNOSTIC 04: THE KARMA INVENTORY
+
+**Objective:** Map the causal architecture currently running in your system.
+
+**Procedure:**
+1. List five significant outcomes in your life that you would prefer to change.
+2. For each, identify one behavior or belief that contributes to its persistence.
+3. Ask: Is this behavior/belief serving a current objective, or is it a residue from a past context?
+4. For each residue, write a one-sentence replacement principle.
+5. Schedule one action in the next 7 days that demonstrates the replacement principle.
+
+**Metric:** The number of residue principles identified and the number of replacement actions scheduled. Without scheduled action, the inventory is entertainment.
+
 **Status:** Cycle Engine Installed.
 **Next Phase:** Boundary Systems.

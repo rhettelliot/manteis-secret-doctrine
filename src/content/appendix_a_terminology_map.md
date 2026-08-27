@@ -32,3 +32,19 @@ The following table maps theosophical terms used in *The Secret Doctrine* into p
 | Lha / Deva | Shining one / nature intelligence | A functional principle operating above the human scale; a pattern too large to be personalized |
 
 **Use Protocol:** When reading the source material, translate each unfamiliar term through the "Plain English" column first. If the operational meaning is still unclear, the term is being used poetically rather than functionally, and can be set aside.
+
+
+## B.6 TERMS RETAINED WITHOUT ENGLISH EQUIVALENT
+
+The following terms are kept in Sanskrit or technical form because their English translations are either misleading or require longer explanation than a single phrase allows. Each appears in the main text with its operational meaning.
+
+| Term | Why Retained | Operational Anchor |
+|---|---|---|
+| Fohat | "Willpower" is too narrow; Fohat is the bridge force that turns ideation into manifestation | Executive energy that converts intention into action |
+| Manvantara / Pralaya | "Day/night" loses the cosmological scale | Active phase and rest phase of any system |
+| Skandha | "Aggregate" is abstract; the term captures the bundle of tendencies carried forward | Automatic inherited/accrued response patterns |
+| Tanha | "Craving" carries moral weight; tanha is the mechanical clinging that sustains cycles | Attachment that prevents pattern completion |
+| Dhyan-Chohan | No English equivalent captures the developmental scale | Higher-order intelligence that a human monad can become |
+| Sishta | "Remnant" or "seed" is close but misses the deliberate preservation aspect | Preserved core capacity that survives collapse |
+
+All other Sanskrit terms have been translated or omitted unless they serve a unique operational function.
