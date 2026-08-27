@@ -7,6 +7,8 @@ import './index.css';
 
 const Distinctions = lazy(() => import('./pages/Distinctions'));
 const Chapter = lazy(() => import('./pages/Chapter'));
+const Audit = lazy(() => import('./pages/Audit'));
+const Spectrum = lazy(() => import('./pages/Spectrum'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 
 function ScrollToTop() {
@@ -47,6 +49,8 @@ export default function Main() {
             <Route index element={<Landing />} />
             <Route path="/distinctions" element={<Suspense fallback={<PageLoading />}><Distinctions /></Suspense>} />
             <Route path="/distinctions/:chapterId" element={<Suspense fallback={<PageLoading />}><Chapter /></Suspense>} />
+            <Route path="/audit" element={<Suspense fallback={<PageLoading />}><Audit /></Suspense>} />
+            <Route path="/spectrum" element={<Suspense fallback={<PageLoading />}><Spectrum /></Suspense>} />
             <Route path="*" element={<Suspense fallback={<PageLoading />}><NotFound /></Suspense>} />
           </Route>
         </Routes>

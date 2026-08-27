@@ -7,6 +7,8 @@ const navLink = ({ isActive }: { isActive: boolean }) =>
 
 const NAV_ITEMS = [
   { to: '/distinctions', label: 'Protocols' },
+  { to: '/audit', label: 'Audit' },
+  { to: '/spectrum', label: 'Spectrum' },
 ];
 
 declare const __BUILD_DATE__: string;
