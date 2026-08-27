@@ -38,7 +38,8 @@ For the knowledge worker, this maps precisely. Without attention and interpretat
 
 The Architect describes the first moment of manifestation as the appearance of a central point within boundless darkness. This is not a physical point in space. Space itself has not yet differentiated. It is the first localization of consciousness — the moment at which the absolute becomes aware of itself as a point of view.
 
-> "Its place is found in the old primitive symbolic charts, in which it is represented by a boundless darkness, on the ground of which appears the first central point in white — thus symbolizing coeval and co-eternal cognitive-Matter making its appearance in the phenomenal world, before its first differentiation.">
+> "Its place is found in the old primitive symbolic charts, in which it is represented by a boundless darkness, on the ground of which appears the first central point in white — thus symbolizing coeval and co-eternal Cognition-Matter making its appearance in the phenomenal world, before its first differentiation."
+>
 > — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 The central point is the seed of perspective. Before it, there is no here and there, no inside and outside, no subject and object. After it, there is a center from which experience can be organized. Everything else radiates from that point.

@@ -18,7 +18,7 @@ The Architect also insists on Seven-layer structure: seven planes, seven princip
 
 The primary failure of the civilian operator is the belief that willpower is an infinite resource. They treat execution as a moral issue: if they "wanted it enough," they would act. When they do not act, they interpret the failure as character deficiency rather than a mismatch between energetic frequency and the task at hand.
 
-The Architect calls the bridge between cognitive and matter **Execution Force**. In her system, Execution Force is the cosmic electricity — the intelligent, organizing force that turns latent potential into active form. It is not desire. It is not intention. It is the current that carries intention across the gap and makes it *happen*.
+The Architect calls the bridge between cognition and matter **Execution Force**. In her system, Execution Force is the cosmic electricity — the intelligent, organizing force that turns latent potential into active form. It is not desire. It is not intention. It is the current that carries intention across the gap and makes it *happen*.
 
 For the Sovereign Operator, Execution Force maps cleanly onto **execution force**. This is the resource you spend when you convert a decision into an outcome. It is not motivation. It is not discipline. It is the actual energetic voltage available to the nervous system for volitional action. When Execution Force is high, you move through resistance. When Execution Force is depleted, the same task feels impossible.
 

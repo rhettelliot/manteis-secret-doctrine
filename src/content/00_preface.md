@@ -7,15 +7,15 @@ Most knowledge workers are skilled at operating within a system they have never 
 
 This is the substrate problem: you are running advanced operations on a foundation you inherited, not one you chose. The foundation includes your assumptions about what work means, what success is, what a career should look like, what relationships are for, and what you are allowed to want. You did not install these assumptions. You absorbed them from family, school, media, corporate culture, and the ambient anxiety of post-consumerist capitalism. They are now the operating system beneath your consciousness. And like any operating system, they determine what can run and what cannot.
 
-The Architect begins *The Source Text* with the same problem at cosmic scale. Before manifestation, before matter, before thought, there is the substrate. She calls it **Root Substrate** — root matter — the unmanifested basis from which all subsequent forms proceed. Behind or beyond it lies **The Absolute Context**, the boundless absolute that cannot be named or cognized directly. Between them is **Substrate Medium**, the primordial substance described as the *upadhi* — the basis or vehicle — of primary thought.
+The Architect begins *The Source Text* with the same problem at cosmic scale. Before manifestation, before matter, before thought, there is the substrate. She calls it **Root Substrate** — root matter — the unmanifested basis from which all subsequent forms proceed. Behind or beyond it lies **The Absolute Context**, the boundless absolute that cannot be named or cognized directly. Between them is **Substrate Medium**, the primordial substance described as the *substrate* — the basis or vehicle — of primary thought.
 
 These terms are not theology. They are architecture. And the architecture says: nothing manifest can be understood without reference to the substrate that precedes it.
 
-> "Primordial Substance is Substrate Medium, the Upadhi of primary thought. In modern language, the latter would be better named cosmic ideation — cognitive; the former, cosmic substance. Matter. These, the Alpha and the Omega of Being, are but the two facets of the one Absolute Existence."
+> "Primordial Substance is Substrate Medium, the Substrate of primary thought. In modern language, the latter would be better named cosmic ideation — Cognition; the former, cosmic substance. Matter. These, the Alpha and the Omega of Being, are but the two facets of the one Absolute Existence."
 >
 > — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
-Read this operationally. cognitive and matter are not warring metaphysical teams. They are two facets of one process. Cosmic ideation — the pattern — requires cosmic substance — the medium — to become perceivable. The medium and the pattern are inseparable. The "Absolute Existence" is not a being. It is the context in which the entire display runs.
+Read this operationally. Cognition and matter are not warring metaphysical teams. They are two facets of one process. Cosmic ideation — the pattern — requires cosmic substance — the medium — to become perceivable. The medium and the pattern are inseparable. The "Absolute Existence" is not a being. It is the context in which the entire display runs.
 
 For the knowledge worker, the equivalent statement is simpler and more brutal: your output is determined by the layer beneath your output. Your decisions are determined by the layer beneath your decisions. And that layer is usually invisible to you.
 
