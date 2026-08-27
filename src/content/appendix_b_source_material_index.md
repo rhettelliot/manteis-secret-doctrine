@@ -13,7 +13,7 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 
 | Source Location | Topic | Mapped Protocol |
 |---|---|---|
-| Proem, § III — Primordial Substance and Divine Thought | Root Substrate, The Absolute Context, Substrate Medium as substrate | Chapter 00 — Preface (Substrate Awareness) |
+| Proem, § III — Primordial Substance and primary Thought | Root Substrate, The Absolute Context, Substrate Medium as substrate | Chapter 00 — Preface (Substrate Awareness) |
 | Seed Teaching I — The Night of the Universe | Cosmic Ideation, Universal Mind, the Central Point | Chapter 01 — The Rendering Layer |
 | Seed Teachings II–III, §§ III–IV | Execution Force, Active Cycle/Recovery Cycle, seven planes, vibration | Chapter 02 — Frequency Dynamics |
 | §§ V–VII — Mundane Egg, Days and Nights of The Architect | Fractal architecture, macrocosm/microcosm, periodicity | Chapter 03 — Fractal Architecture |
@@ -40,7 +40,7 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 |---|---|---|
 | "The Alpha and the Omega of Being are but the two facets of the one Absolute Existence" | Vol. I, Proem, § III | Chapter 00 — distinction between manifest and unmanifest substrate |
 | "Cosmic Ideation — Spirit; Cosmic Substance — the vehicle of thought" | Vol. I, Proem, § III | Chapter 01 — rendering layer as ideation plus substance |
-| "Primordial Substance is Substrate Medium, the vehicle of divine thought" | Vol. I, Proem, § III | Chapter 01 — medium of mental manifestation |
+| "Primordial Substance is Substrate Medium, the vehicle of primary thought" | Vol. I, Proem, § III | Chapter 01 — medium of mental manifestation |
 | "The Monads of the presentments of men of the Third Round" | Vol. II, Seed Teaching III, commentary | Chapter 04 — phase development of the essential self |
 | "Man needs four flames and three fives to become one on Earth" | Vol. II, Seed Teaching III, commentary | Chapter 06 — layered self and integration of principles |
 | "The higher progenitors had no hand in his physical creation" | Vol. II, Seed Teaching IV, commentary | Chapter 04 — the gradual densification of the human system |
@@ -74,10 +74,10 @@ The following term-frequency counts were generated from the Vol. II source file 
 | Aryan | 178 | Chapter 04 — Phase Architecture (mental mastery) |
 | Lemurian | 62 | Chapter 04 — Phase Architecture (execution phase) |
 | Karma | 89 | Chapter 05 — The Cycle Engine |
-| Root Race | 19 (chapter titles and structural uses) | Chapter 04 — Phase Architecture |
+| Developmental Phase | 19 (chapter titles and structural uses) | Chapter 04 — Phase Architecture |
 | Adept | 95 | Chapter 07 — The Sovereign State |
 
-Note: "Root Race" appears more densely in the structural headings and tables of contents than in running prose; its conceptual presence is distributed across Seed Teachings III–XII.
+Note: "Developmental Phase" appears more densely in the structural headings and tables of contents than in running prose; its conceptual presence is distributed across Seed Teachings III–XII.
 
 ## B.7 READING PROTOCOL FOR SOURCE MATERIAL
 

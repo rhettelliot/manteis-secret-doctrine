@@ -15,7 +15,7 @@ The following table maps all source terms used in this manual into plain English
 | Cognitive Layer | Mind / the thinking principle | The reflective and discriminative capacity that separates reactive impulse from conscious choice |
 | Intuitive Layer | Intuition / spiritual soul | Direct pattern-recognition; knowing without exhaustive reasoning |
 | Core Identity | Spirit / universal self | The witnessing ground; the part of awareness that is not identified with content |
-| Root Race | Evolutionary epoch | A life-career phase with its own dominant principle, success metrics, and failure mode |
+| Developmental Phase | Evolutionary epoch | A life-career phase with its own dominant principle, success metrics, and failure mode |
 | Round | Cyclic progression through planes | A recurring life pattern that returns at progressively deeper levels until completed |
 | Globe | A plane or perspective within a Round | A specific lens through which a recurring pattern can be viewed |
 | Karma | Causal consequence / action-law | The accumulated causal architecture that determines which patterns can render; uncompleted loops |
