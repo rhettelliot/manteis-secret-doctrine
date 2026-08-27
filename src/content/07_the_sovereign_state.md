@@ -1,19 +1,19 @@
 # PROTOCOL 07: THE SOVEREIGN STATE
 
-**Principle Source:** The Sixth and Seventh Root Races, the Adept, and Conscious Evolution (Vol. II)
+**Principle Source:** The Sixth and Seventh Developmental Phases, the Conscious Operator, and Conscious Evolution (Vol. II)
 **Operational Class:** Total System Integration
 **Threat Vector:** Passive Cycling — Remaining a Node in the Engine
 
-> "The great Adepts and Initiated ascetics will 'multiply' — once more produce Mind-born immaculate Sons — in the Seventh Root-Race."
-> — *Archival Protocol: The Secret Doctrine*
+> "The great Conscious Operators will produce integrated systems — once more generate clean architectures — in the Seventh Developmental Phase."
+> — *Archival Protocol: The Source Text*
 
-## 1. THE ADEPT AS SELF-DIRECTED OPERATOR
+## 1. THE CONSCIOUS OPERATOR AS SELF-DIRECTED OPERATOR
 
-The Architect's Adept is not a magician. Not a saint. Not an ascetic who has escaped the world. The Adept is the operator who has completed the cycle voluntarily — not by accident, not by inheritance, but by conscious evolution through every phase and every layer.
+The Architect's Conscious Operator is not a magician. Not a saint. Not a recluse who has escaped the world. The Conscious Operator is the operator who has completed the cycle voluntarily — not by accident, not by inheritance, but by conscious evolution through every phase and every layer.
 
-In the source text, the Adept is the one who knows the secret of the cycles, who has passed through the seven principles, who has mastered the law of karma rather than being mastered by it. Read operationally: the Adept is the **self-directed operator** — the person who has installed all the preceding protocols and now runs the system rather than being run by it.
+In the source text, the Conscious Operator is the one who knows the secret of the cycles, who has passed through the seven principles, who has mastered the law of consequence rather than being mastered by it. Read operationally: the Conscious Operator is the **self-directed operator** — the person who has installed all the preceding protocols and now runs the system rather than being run by it.
 
-The goal of this manual is not mystical attainment. It is operational sovereignty. The operator who reaches the Sovereign State is not above the world. They are ** architecturally beneath it** — stable enough to shape it without being pulled into its oscillations.
+The goal of this manual is not abstract attainment. It is operational sovereignty. The operator who reaches the Sovereign State is not above the world. They are ** architecturally beneath it** — stable enough to shape it without being pulled into its oscillations.
 
 ## 2. INTEGRATION: THE SEVEN PROTOCOLS AS A SINGLE SYSTEM
 
@@ -26,7 +26,7 @@ The preceding six protocols are not independent chapters. They are modules of a 
 4. **Frequency Dynamics (Ch 03):** You modulate your state mechanically. You do not wait to "feel like it." You change the rate, and the state follows.
 5. **Spectrum Operations (Ch 04, Kybalion):** You transmute poles instead of fighting them. You slide along spectra rather than clinging to one end.
 6. **Phase Architecture (Ch 04, this manual):** You know which life-career phase you are in and install the correct operating procedures for that phase.
-7. **The Cycle Engine (Ch 05):** You identify recurring patterns, map the globes, and change the response until the cycle completes.
+7. **The Cycle Engine (Ch 05):** You identify recurring patterns, map the perspectives, and change the response until the cycle completes.
 8. **Boundary Systems (Ch 06):** You maintain a layered self with healthy perimeters. You audit the Accumulated Dispositions and release attachment.
 
 In the Sovereign State, these are not practices. They are defaults. The operator does not "do" the rendering layer. The operator *is* the rendering layer.
@@ -39,11 +39,11 @@ The passive cycler is moved by the engine. They repeat patterns, blame circumsta
 
 The conscious operator is the one who has chosen to **drive the cycle**. They do not expect the pattern to stop on its own. They do not wait for permission. They install the causes that produce the effects they want, and they uninstall the causes that produce the effects they do not want.
 
-This is the difference between the Atlantean and the Adept. The Atlantean had power but was unconscious of the cycle. The Adept has less apparent power but total consciousness of it. The Atlantean is destroyed by the wave. The Adept rides it.
+This is the difference between the Accumulation phase and the Conscious Operator. The Accumulation phase had power but was unconscious of the cycle. The Conscious Operator has less apparent power but total consciousness of it. The Accumulation phase is destroyed by the wave. The Conscious Operator rides it.
 
 ## 4. THE SIXTH AND SEVENTH PHASES: INTEGRATION AND TRANSMISSION
 
-The Architect's Sixth and Seventh Root Races represent synthesis and return. In operational terms, this is the phase where the operator's internal architecture is complete enough that the work becomes **transmission**.
+The Architect's Sixth and Seventh Developmental Phases represent synthesis and return. In operational terms, this is the phase where the operator's internal architecture is complete enough that the work becomes **transmission**.
 
 Transmission is not teaching in the conventional sense. It is the act of making your integrated state available to others through your presence, your work, and your systems. The operator who has reached this phase does not need to announce it. Their output becomes the instruction.
 
@@ -53,11 +53,11 @@ The forms of transmission vary:
 - **Modeled behavior:** the way the operator handles pressure, makes decisions, treats people.
 - **Direct teaching:** when appropriate, explicit instruction of those ready to receive it.
 
-The warning remains: premature transmission is spiritual bypassing. The operator must complete the earlier phases before attempting to transmit them. A person still in the Atlantean danger zone cannot teach sovereignty. A person still cycling through unresolved karma cannot guide others out of the cycle.
+The warning remains: premature transmission is operational bypassing. The operator must complete the earlier phases before attempting to transmit them. A person still in the Accumulation danger zone cannot teach sovereignty. A person still cycling through unresolved consequence cannot guide others out of the cycle.
 
 ## 5. THE RETURN TO SOURCE — NOW WITH UNDERSTANDING
 
-The source text describes the final trajectory as a return to the Absolute — but now with full consciousness, not as unconscious emanation. The operator returns to the substrate, but now they know what the substrate is.
+The source text describes the final trajectory as a return to the substrate — but now with full consciousness, not as unconscious extension. The operator returns to the substrate, but now they know what the substrate is.
 
 In practical terms, this means the operator eventually releases the need to *become* anything. They have built the systems, completed the cycles, and maintained the boundaries. What remains is the work itself, done cleanly, without the desperation of someone trying to use the work to complete themselves.
 
@@ -74,7 +74,7 @@ Sovereignty is not a peak experience. It is a daily architecture. The following 
 
 **During the day:**
 4. Detect rendering errors in real time. When stress appears, ask: "Is this sensory data or rendered meaning?"
-5. Detect cycles. When a familiar friction arises, name the Round and execute the new response.
+5. Detect cycles. When a familiar friction arises, name the Cycle and execute the new response.
 6. Maintain boundaries. Log violations within 5 minutes.
 
 **Evening:**
@@ -84,7 +84,7 @@ Sovereignty is not a peak experience. It is a daily architecture. The following 
 
 **Weekly:**
 10. Review the phase map. Are you over-identified with one phase?
-11. Review karma. What causal loops are closing? What new ones are opening?
+11. Review consequence. What causal loops are closing? What new ones are opening?
 12. Update the Vault. Externalize what you learned so the renderer does not have to hold it.
 
 ## 7. FIELD DIAGNOSTICS
@@ -119,7 +119,7 @@ Sovereignty is not a peak experience. It is a daily architecture. The following 
 
 The Sovereign State is the integration of all previous protocols. The operator has audited the substrate, installed the rendering layer, recognized fractal patterns, mastered frequency dynamics, mapped life phases, identified recurring cycles, and built boundary systems. Now they operate from a stable center.
 
-The Adept is not the one who escapes the cycle. The Adept is the one who completes it. The return to source is not a departure from life but a re-entry into it — now with understanding, architecture, and choice.
+The Conscious Operator is not the one who escapes the cycle. The Conscious Operator is the one who completes it. The return to substrate is not a departure from life but a re-entry into it — now with understanding, architecture, and choice.
 
 The installation is complete. What you render next is your own architecture.
 
@@ -133,9 +133,9 @@ This distinction is critical. The operator does not promise a life without waves
 
 ## 10. THE DANGER OF SOVEREIGNTY PERFORMANCE
 
-As the operator approaches the Sovereign State, a new trap appears: performing sovereignty. The operator begins to act calm, detached, or "above it all" not because they are integrated, but because they have identified with the image of the Adept.
+As the operator approaches the Sovereign State, a new trap appears: performing sovereignty. The operator begins to act calm, detached, or "above it all" not because they are integrated, but because they have identified with the image of the Conscious Operator.
 
-This is Phase IV materialism wearing a spiritual costume. The operator collects practices, vocabulary, and visible signals of sovereignty while the underlying cycles remain active. The result is a persona that looks integrated but collapses under pressure.
+This is Phase IV materialism wearing an operational costume. The operator collects practices, vocabulary, and visible signals of sovereignty while the underlying cycles remain active. The result is a persona that looks integrated but collapses under pressure.
 
 The antidote is diagnostic honesty. The Sovereign Operator is the one who can admit, in real time, which layer is currently underfed, which cycle is currently active, and which boundary was just breached. Performance cannot coexist with honest diagnostics.
 
@@ -163,7 +163,7 @@ This is why the daily protocol is the heart of sovereignty. It is not a ritual o
 
 ## 13. TRANSMISSION WITHOUT PREACHING
 
-The Adept transmits not through explanation but through embodiment. The operator in the Sovereign State does not need to tell others how to live. Their presence, their decisions, and their systems do the teaching.
+The Conscious Operator transmits not through explanation but through embodiment. The operator in the Sovereign State does not need to tell others how to live. Their presence, their decisions, and their systems do the teaching.
 
 This is the operational meaning of "Mind-born immaculate Sons" in the source text. Transmission is not reproduction of doctrine. It is the generation of new systems from an integrated source. The manual you are reading is one form of transmission. A codebase is another. A well-run company is another. A stable family is another. The form is secondary to the integration of the source.
 

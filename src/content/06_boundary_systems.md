@@ -1,6 +1,6 @@
 # PROTOCOL 06: BOUNDARY SYSTEMS
 
-**Principle Source:** The Seven Principles, Accumulated Dispositions, Attachment Driver, and the Auric Field (Vol. I–II)
+**Principle Source:** The Seven Principles, Accumulated Dispositions, Attachment Driver, and the Boundary Field (Vol. I–II)
 **Operational Class:** Layered Self-Architecture and Perimeter Defense
 **Threat Vector:** Leakage — One Layer Hijacking the Entire System
 
@@ -25,7 +25,7 @@ The Architect's seven principles provide a more useful architecture. Stripped of
 
 The operator's task is not to "fix" the self. It is to keep the layers in correct relation to one another. Each layer must be fed, protected, and prevented from dominating the stack.
 
-## 2. THE AURIC FIELD AS PERSONAL BOUNDARY SYSTEM
+## 2. THE BOUNDARY FIELD AS PERSONAL BOUNDARY SYSTEM
 
 The source text refers to the surrounding field as the operational perimeter. Read operationally, this is the **personal boundary system** — the set of membranes that determine what enters the self and what stays out.
 
@@ -194,7 +194,7 @@ The practical test is simple: after a day of work, can you identify which though
 
 ## 13. THE BOUNDARY SYSTEM AND THE CYCLE ENGINE
 
-Boundary breaches are often the mechanism by which old cycles restart. A single porous moment — answering a message from an old pattern, accepting a meeting with a known trigger, letting a boundary violation slide — can restart a Round that had nearly completed.
+Boundary breaches are often the mechanism by which old cycles restart. A single porous moment — answering a message from an old pattern, accepting a meeting with a known trigger, letting a boundary violation slide — can restart a Cycle that had nearly completed.
 
 The Sovereign Operator watches for these restart triggers. They know that the cycle does not usually return through a grand event. It returns through a small concession. The operator treats every boundary test as a cycle test. The response to the test determines whether the old consequence continues or the new consequence begins.
 

@@ -38,7 +38,7 @@ The danger of these phases is impatience. The operator feels the potential and w
 **Operational Imperative:**
 In Phase I–II, the only valid metric is **contact with reality**. You are not building a reputation yet. You are building a feedback loop. Take the entry-level role. Ship the bad first product. Get the negative review. The faster the loop turns, the faster you accumulate the density required for Phase III.
 
-## 3. PHASE III — THE LEMURIAN PHASE: EXECUTION WITHOUT REFLECTION
+## 3. PHASE III — THE EXECUTION PHASE: OUTPUT WITHOUT REFLECTION
 
 Phase III is the Execution Phase. The Architect describes it as the phase where man becomes fully physical but not yet fully mental. The body works. The senses operate. The being builds, procreates, and survives. But the higher reflective principle has not yet fully activated.
 
@@ -63,7 +63,7 @@ In Phase III, the task is not to produce more. The task is to install the **Cogn
 
 The operator who completes Phase III is not the one who works the hardest. It is the one who becomes conscious of the work while still doing it.
 
-## 4. PHASE IV — THE ATLANTEAN PHASE: THE DANGER ZONE OF PEAK MATERIALISM
+## 4. PHASE IV — THE ACCUMULATION PHASE: THE DANGER ZONE OF PEAK MATERIALISM
 
 Phase IV is the Accumulation Phase, and it is the central warning of the entire anthropogenic cycle. The Architect describes the Accumulations as the race that reached the peak of material power — advanced science, global communication, monumental architecture, and centralized control — and destroyed themselves through the misuse of that power. Their civilization had everything except the wisdom to govern it.
 
@@ -91,7 +91,7 @@ The Accumulation Phase does not have to end in collapse. The correction is the d
 
 The Architect's Atlantis collapsed because it confused the possession of power with the capacity to wield it. The modern operator collapses for the same reason. The correction is not to renounce success; it is to **govern it**.
 
-## 5. PHASE V — THE ARYAN PHASE: MENTAL MASTERY AND STRATEGIC ARCHITECTURE
+## 5. PHASE V — THE ARCHITECTURE PHASE: MENTAL MASTERY AND STRATEGIC ARCHITECTURE
 
 Phase V is the Architecture Phase, defined in the source text by the development of intellect, language, and analytical capacity. In the career analogue, this is the phase of strategic leadership. The operator is no longer primarily an executor. They are an architect of systems that produce outcomes through other people, other processes, and other capital.
 
@@ -108,7 +108,7 @@ Phase VI and VII are described in the source as the synthesis phase — the reun
 
 This is not retirement. It is not escape. It is the phase where the operator's internal architecture is complete enough that their work becomes primarily **transmission** — writing, teaching, mentoring, building institutions, or simply modeling a different way of operating.
 
-The risk of premature Phase VI is detachment. The operator declares themselves "above" the game while still having unresolved Phase III execution wounds or Phase IV material entanglements. The result is core principleual bypassing: a calm surface over an unexamined foundation.
+The risk of premature Phase VI is detachment. The operator declares themselves "above" the game while still having unresolved Phase III execution wounds or Phase IV material entanglements. The result is operational bypassing: a calm surface over an unexamined foundation.
 
 **Completion Criterion:**
 You are in Phase VI only when:
@@ -128,7 +128,7 @@ You are in Phase VI only when:
 4. List one decision driven by the *next* phase's principle.
 **Metric:** If 90% of your decisions are driven by one phase, you are over-identified with it. Integration requires movement between phases.
 
-### DIAGNOSTIC 02: ATLANTEAN RISK AUDIT
+### DIAGNOSTIC 02: ACCUMULATION RISK AUDIT
 **Objective:** Detect the danger zone before collapse.
 **Procedure:**
 1. List your five highest-value material assets or status markers.
@@ -148,7 +148,7 @@ You are in Phase VI only when:
 
 ## 8. SUMMARY
 
-The Developmental Phases are not historical claims. They are a phase model. Every operator moves through them, and most get stuck in one. The Lemurian gets stuck in execution. The Accumulation gets stuck in accumulation. The Architecture gets stuck in abstraction. The Sovereign Operator moves through all of them, carrying the capacities forward while shedding the identifications.
+The Developmental Phases are not historical claims. They are a phase model. Every operator moves through them, and most get stuck in one. The Execution phase gets stuck in execution. The Accumulation gets stuck in accumulation. The Architecture gets stuck in abstraction. The Sovereign Operator moves through all of them, carrying the capacities forward while shedding the identifications.
 
 The Accumulation warning is the most urgent. Peak materialism without governance is not success; it is a setup. The operator who has built something must immediately begin building the architecture that can hold it.
 
