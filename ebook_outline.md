@@ -1,3 +1,5 @@
+> **INTERNAL PLANNING DOCUMENT** — Contains original source references. The operator-facing text (src/content/) has all esoteric terms obscured.
+
 # The Secret Doctrine — Tactical Reframing
 ## Draft Outline for Rhett Review
 

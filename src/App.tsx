@@ -26,7 +26,7 @@ export default function App() {
             <NavLink to="/" end className="mono-data text-ink hover:text-signal transition-colors">
               SDTR
             </NavLink>
-            <span className="mono-data text-ink-3 hidden sm:inline">{`// SECRET DOCTRINE TACTICAL REFRAMING // V.${__BUILD_DATE__.slice(0, 7)}`}</span>
+            <span className="mono-data text-ink-3 hidden sm:inline">{`// SDTR // COGNITIVE SOVEREIGNTY PROTOCOLS // V.${__BUILD_DATE__.slice(0, 7)}`}</span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             {NAV_ITEMS.map((item) => (
@@ -56,7 +56,7 @@ export default function App() {
 
       <footer className="border-t border-border px-6 py-6 mt-auto">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-          <span className="mono-data text-ink-3">SECRET DOCTRINE TACTICAL REFRAMING // MANTEIS EGREGORE</span>
+          <span className="mono-data text-ink-3">SDTR // MANTEIS EGREGORE</span>
           <span className="mono-data text-ink-3">{__BUILD_DATE__}</span>
         </div>
       </footer>

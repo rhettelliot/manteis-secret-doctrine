@@ -6,12 +6,12 @@ export default function Landing() {
     <div className="max-w-7xl mx-auto px-6 py-16 md:py-24">
       {/* Hero */}
       <section className="mb-20">
-        <div className="mono-label mb-6">SECRET DOCTRINE // TACTICAL REFRAMING</div>
+        <div className="mono-label mb-6">SDTR // COGNITIVE SOVEREIGNTY PROTOCOLS</div>
         <h2 className="text-4xl md:text-6xl font-bold text-ink tracking-tight mb-6 max-w-3xl">
-          The Secret Doctrine,<br /><span className="text-signal">decoded for operators.</span>
+          Seven Protocols<br /><span className="text-signal">for Cognitive Sovereignty.</span>
         </h2>
         <p className="text-lg text-ink-2 max-w-2xl leading-relaxed mb-8">
-          H.P. Blavatsky's cosmological architecture, reframed as seven operational protocols for
+          Ancient cosmological architecture, reframed as seven operational protocols for
           cognitive sovereignty. Written for secular knowledge workers who feel the system eating them
           and need practical frameworks, not theology.
         </p>
