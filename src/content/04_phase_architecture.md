@@ -5,13 +5,12 @@
 **Threat Vector:** Accumulation Collapse — Peak Materialism without Architecture
 
 > "The first Phase was diffuse; the second more dense; the third physical; the fourth built civilizations of power and fell; the fifth seeks knowledge; the sixth and seventh must integrate."
-> — *Archival Protocol: The Source Text*
 
 ## 1. THE PHASE MAP: LIFE AS A SEQUENCE OF OPERATING SYSTEMS
 
 The standard view of a career is a ladder: climb from junior to senior, accumulate credentials, then retire. This view is useful for payroll systems and useless for the operator who wants to understand why the rules keep changing underneath them.
 
-The Architect's seven Developmental Phases are not anthropological categories. Read operationally, they describe seven distinct phases of an evolving system. Each phase has its own dominant principle, its own success metrics, and its own failure mode. The operator who treats Phase 3 rules as valid in Phase 5 will plateau. The operator who tries to live in Phase 6 before completing Phase 4 will float. The operator who gets stuck in Phase 4 will self-destruct.
+the original framework's seven Developmental Phases are not anthropological categories. Read operationally, they describe seven distinct phases of an evolving system. Each phase has its own dominant principle, its own success metrics, and its own failure mode. The operator who treats Phase 3 rules as valid in Phase 5 will plateau. The operator who tries to live in Phase 6 before completing Phase 4 will float. The operator who gets stuck in Phase 4 will self-destruct.
 
 The reframing is direct:
 
@@ -40,7 +39,7 @@ In Phase I–II, the only valid metric is **contact with reality**. You are not 
 
 ## 3. PHASE III — THE EXECUTION PHASE: OUTPUT WITHOUT REFLECTION
 
-Phase III is the Execution Phase. The Architect describes it as the phase where man becomes fully physical but not yet fully mental. The body works. The senses operate. The being builds, procreates, and survives. But the higher reflective principle has not yet fully activated.
+Phase III is the Execution Phase. The original framework describes it as the phase where man becomes fully physical but not yet fully mental. The body works. The senses operate. The being builds, procreates, and survives. But the higher reflective principle has not yet fully activated.
 
 In career terms, this is the pure execution phase. The operator is competent. They are producing. They are valued for output: lines of code, deals closed, cases handled, products shipped. The feedback loop is strong. The rewards are immediate.
 
@@ -65,7 +64,7 @@ The operator who completes Phase III is not the one who works the hardest. It is
 
 ## 4. PHASE IV — THE ACCUMULATION PHASE: THE DANGER ZONE OF PEAK MATERIALISM
 
-Phase IV is the Accumulation Phase, and it is the central warning of the entire anthropogenic cycle. The Architect describes the Accumulations as the race that reached the peak of material power — advanced science, global communication, monumental architecture, and centralized control — and destroyed themselves through the misuse of that power. Their civilization had everything except the wisdom to govern it.
+Phase IV is the Accumulation Phase, and it is the central warning of the entire anthropogenic cycle. The original framework describes the Accumulations as the race that reached the peak of material power — advanced science, global communication, monumental architecture, and centralized control — and destroyed themselves through the misuse of that power. Their civilization had everything except the wisdom to govern it.
 
 For the knowledge worker, the Accumulation Phase is the danger zone of peak material success. It is the phase where income, status, access, and influence are all rising. The operator has "made it." The system is producing at scale. The temptation is to believe that the same expansion can continue indefinitely.
 
@@ -89,18 +88,18 @@ The Accumulation Phase does not have to end in collapse. The correction is the d
 4. **Restore the reflective layer.** The Accumulation falls because reflection is sacrificed for speed. Reinstall regular review: weekly, quarterly, annually.
 5. **Identify the off-ramp.** The operator must know what "enough" looks like before the market tells them.
 
-The Architect's Atlantis collapsed because it confused the possession of power with the capacity to wield it. The modern operator collapses for the same reason. The correction is not to renounce success; it is to **govern it**.
+the original framework's Atlantis collapsed because it confused the possession of power with the capacity to wield it. The modern operator collapses for the same reason. The correction is not to renounce success; it is to **govern it**.
 
 ## 5. PHASE V — THE ARCHITECTURE PHASE: MENTAL MASTERY AND STRATEGIC ARCHITECTURE
 
-Phase V is the Architecture Phase, defined in the source text by the development of intellect, language, and analytical capacity. In the career analogue, this is the phase of strategic leadership. The operator is no longer primarily an executor. They are an architect of systems that produce outcomes through other people, other processes, and other capital.
+Phase V is the original framework Phase, defined in the original framework by the development of intellect, language, and analytical capacity. In the career analogue, this is the phase of strategic leadership. The operator is no longer primarily an executor. They are an architect of systems that produce outcomes through other people, other processes, and other capital.
 
-The Architecture Phase introduces a new risk: **over-intellectualization**. The operator can think so well that they stop feeling. They build models of reality that are internally consistent but disconnected from the human substrate. They become the executive who optimizes metrics while the culture rots. They become the strategist who wins the argument and loses the war.
+The original frameworkure Phase introduces a new risk: **over-intellectualization**. The operator can think so well that they stop feeling. They build models of reality that are internally consistent but disconnected from the human substrate. They become the executive who optimizes metrics while the culture rots. They become the strategist who wins the argument and loses the war.
 
 **Operational Imperative:**
 In Phase V, the operator must keep the intellectual layer connected to the lower layers. Strategy without execution memory is sterile. Leadership without empathy is coercion. Analysis without ethics becomes rationalized extraction.
 
-The Architecture Phase is complete when the operator can think clearly *and* act decisively *and* hold the human cost in view simultaneously. This is the bridge to Phase VI.
+The original frameworkure Phase is complete when the operator can think clearly *and* act decisively *and* hold the human cost in view simultaneously. This is the bridge to Phase VI.
 
 ## 6. PHASE VI–VII: INTEGRATION AND RETURN
 
@@ -148,7 +147,7 @@ You are in Phase VI only when:
 
 ## 8. SUMMARY
 
-The Developmental Phases are not historical claims. They are a phase model. Every operator moves through them, and most get stuck in one. The Execution phase gets stuck in execution. The Accumulation gets stuck in accumulation. The Architecture gets stuck in abstraction. The Sovereign Operator moves through all of them, carrying the capacities forward while shedding the identifications.
+The Developmental Phases are not historical claims. They are a phase model. Every operator moves through them, and most get stuck in one. The Execution phase gets stuck in execution. The Accumulation gets stuck in accumulation. The original frameworkure gets stuck in abstraction. The Sovereign Operator moves through all of them, carrying the capacities forward while shedding the identifications.
 
 The Accumulation warning is the most urgent. Peak materialism without governance is not success; it is a setup. The operator who has built something must immediately begin building the architecture that can hold it.
 

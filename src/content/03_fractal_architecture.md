@@ -1,22 +1,21 @@
 # DISTINCTION 03: FRACTAL ARCHITECTURE
-**Principle Source:** The Origin System, The Days and Nights of The Architect, and the Fractal Recursion Principle (The Source Text, Vol. I, §§ V–VII)
+**Principle Source:** The Origin System, The Days and Nights of The original framework, and the Fractal Recursion Principle (Volume I, §§ V–VII)
 **Operational Class:** Structural Analysis and Cross-Scale Pattern Recognition
 **Threat Vector:** Scale-Blindness
 
 > "The Egg was incorporated as a structural sign in the cosmogony of every people on the Earth... it represented most successfully the origin and secret of being."
-> — *Archival Protocol: The Source Text*
 
-### 1. SOURCE ANCHOR: WHAT THE ARCHITECT SAID
+### 1. SOURCE ANCHOR: WHAT the original framework SAID
 
-In Volume I, The Architect treats the Origin System as the universal structural symbol. Every people on Earth, she notes, preserved some version of it: the Seed Sphere, the Closed-Loop Form, the Initial Containment. The system is a circle and a sphere. It is a closed form that contains a germ. It requires only heat to begin its inward transformation, and from that self-contained process a living being emerges.
+In Volume I, The original framework treats the Origin System as the universal structural symbol. Every people on Earth, she notes, preserved some version of it: the Seed Sphere, the Closed-Loop Form, the Initial Containment. The system is a circle and a sphere. It is a closed form that contains a germ. It requires only heat to begin its inward transformation, and from that self-contained process a living being emerges.
 
-The Architect's point is structural, not decorative. The symbol represents the cosmos as a self-contained system that develops from within according to an internal order. The shell is the boundary. The white is the medium. The yolk is the core resource. The germ is the point of organization. The same pattern appears in every culture because the same pattern appears at every scale.
+the original framework's point is structural, not decorative. The symbol represents the cosmos as a self-contained system that develops from within according to an internal order. The shell is the boundary. The white is the medium. The yolk is the core resource. The germ is the point of organization. The same pattern appears in every culture because the same pattern appears at every scale.
 
-The Days and Nights of The Architect extend the same principle to time. Active Cycle and Recovery Cycle are not only cosmic. They recur at every magnitude. A universe has its days and nights. A planet has its seasons. A body has its sleep cycles. A mind has its periods of focus and drift. The pattern is not imposed from outside. It is the natural rhythm of any organized system that alternates between expression and renewal.
+The Days and Nights of The original framework extend the same principle to time. Active Cycle and Recovery Cycle are not only cosmic. They recur at every magnitude. A universe has its days and nights. A planet has its seasons. A body has its sleep cycles. A mind has its periods of focus and drift. The pattern is not imposed from outside. It is the natural rhythm of any organized system that alternates between expression and renewal.
 
 ### 2. THE ORIGIN SYSTEM AS CLOSED-LOOP SYSTEM
 
-The Architect describes the Origin System — the Seed Sphere, the Closed-Loop Form — as the form in which the universe first manifests. The symbol is a self-contained sphere containing the germ of all that will become. The system is not a decorative image. It is a structural diagram.
+The original framework describes the Origin System — the Seed Sphere, the Closed-Loop Form — as the form in which the universe first manifests. The symbol is a self-contained sphere containing the germ of all that will become. The system is not a decorative image. It is a structural diagram.
 
 A self-contained system has a boundary, a substrate, a generative core, and a developmental rhythm. The shell is not an obstacle. It is the condition that makes inward transformation possible. Without the boundary, there is no pressure. Without the pressure, there is no form.
 
@@ -26,7 +25,7 @@ The practical question is never "What is happening?" It is "What kind of system 
 
 ### 3. Cross-Scale Pattern Replication — THE FRACTAL REPLICATION OF DYNAMICS
 
-The Source Text insists that the same patterns operate at every scale. The macrocosm is the microcosm writ large. This is not structural analysis. It is the observation that complex systems produce self-similar dynamics across levels because they are governed by the same relational rules.
+the original framework insists that the same patterns operate at every scale. The macrocosm is the microcosm writ large. This is not structural analysis. It is the observation that complex systems produce self-similar dynamics across levels because they are governed by the same relational rules.
 
 A civilization that burns out follows the same sequence as a body that burns out: prolonged activation, boundary erosion, core depletion, collapse, and either recovery or dissolution. A company that cannot rest between sprints is the same dynamic as a person who cannot sleep. A market bubble is the same shape as a manic episode. A failed project is the same shape as a failed relationship — misaligned core, porous boundary, premature scaling.
 
@@ -64,9 +63,9 @@ Every closed-loop system can be operated through three variables. Most people ma
 
 The Sovereign Operator audits these three levers before making any major move. If the boundary is cracked, expansion is dangerous. If the core is weak, differentiation is premature. If the rhythm is broken, more effort will not help.
 
-### 6. THE DAYS AND NIGHTS OF The Architect IN YOUR WEEK
+### 6. THE DAYS AND NIGHTS OF The original framework IN YOUR WEEK
 
-The Architect's Active Cycle and Recovery Cycle are not only cosmic. They recur at every scale. The same cycle that governs the life of a universe governs your week. A week without a real night is a miniature cosmic failure.
+the original framework's Active Cycle and Recovery Cycle are not only cosmic. They recur at every scale. The same cycle that governs the life of a universe governs your week. A week without a real night is a miniature cosmic failure.
 
 Map the cycle onto your own operating system:
 - **Monday morning** — emergence from Recovery Cycle. The system re-integrates. The boundary is soft. Decisions should be light.
@@ -114,9 +113,9 @@ This is why tactical self-improvement is not selfish. The state of your internal
 **Procedure:**
 1. Identify a recurring problem (e.g., avoidance of conflict, overcommitment, perfectionism, fear of completion).
 2. Map how it appears at:
-    - **Micro Scale (the hour):** a specific habit or interaction.
-    - **Meso Scale (the week):** a recurring pattern in work or relationships.
-    - **Macro Scale (the year or career):** a long-term trajectory or repeated outcome.
+ - **Micro Scale (the hour):** a specific habit or interaction.
+ - **Meso Scale (the week):** a recurring pattern in work or relationships.
+ - **Macro Scale (the year or career):** a long-term trajectory or repeated outcome.
 **Metric:** If the same pattern appears at all three scales, you have identified a systemic fractal failure. The solution must be applied at the smallest scale first.
 
 #### DIAGNOSTIC 02: THE EGG SYSTEM AUDIT
@@ -124,9 +123,9 @@ This is why tactical self-improvement is not selfish. The state of your internal
 **Procedure:**
 1. Select a system: your life, a project, a team, a relationship, or a company.
 2. Rate each lever on a scale of 1–10:
-    - **Boundary:** Is it clear what belongs inside and what does not?
-    - **Core:** Is the generative purpose clear and strong?
-    - **Rhythm:** Is there a sustainable alternation of activation and recovery?
+ - **Boundary:** Is it clear what belongs inside and what does not?
+ - **Core:** Is the generative purpose clear and strong?
+ - **Rhythm:** Is there a sustainable alternation of activation and recovery?
 3. Identify the lowest score. That is the limiting factor.
 **Metric:** A system cannot expand past its lowest-scoring lever. Attempting to do so produces deformation or collapse.
 
@@ -134,10 +133,10 @@ This is why tactical self-improvement is not selfish. The state of your internal
 **Objective:** Determine which developmental stage a system is in.
 **Procedure:**
 1. For the selected system, ask:
-    - Is the internal architecture still forming, with little external output? (Germination)
-    - Are parts specializing and boundaries forming? (Differentiation)
-    - Is visible growth stretching the shell? (Expansion)
-    - Is the system integrating gains or showing signs of depletion? (Consolidation / Dissolution)
+ - Is the internal architecture still forming, with little external output? (Germination)
+ - Are parts specializing and boundaries forming? (Differentiation)
+ - Is visible growth stretching the shell? (Expansion)
+ - Is the system integrating gains or showing signs of depletion? (Consolidation / Dissolution)
 2. Compare your current strategy to the stage. Are you pushing expansion during germination? Are you adding complexity during consolidation?
 **Metric:** Strategy-stage mismatch is one of the most common causes of failure. Correct the timing before correcting the effort.
 

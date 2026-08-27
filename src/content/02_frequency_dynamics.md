@@ -1,24 +1,23 @@
 # DISTINCTION 02: FREQUENCY DYNAMICS
-**Principle Source:** Execution Force, Active Cycle, and Recovery Cycle (The Source Text, Vol. I, Stanzas II–III, §§ III–IV, VII)
+**Principle Source:** Execution Force, Active Cycle, and Recovery Cycle (Volume I, Stanzas II–III, §§ III–IV, VII)
 **Operational Class:** State Engineering and Temporal Architecture
 **Threat Vector:** Constant Low-Grade Active Cycle
 
 > "Execution Force is the energizing and guiding intelligence in the Universal Electric or Vital Fluid."
-> — *Archival Protocol: The Source Text*
 
-### 1. SOURCE ANCHOR: WHAT THE ARCHITECT SAID
+### 1. SOURCE ANCHOR: WHAT the original framework SAID
 
-In Volume I, The Architect describes Execution Force as the active, intelligent force in the "Universal Electric or Vital Fluid" — the agent that makes latent principles manifest. Execution Force is not a person. It is a function: the bridge between an unmanifest possibility and its organized expression. Without Execution Force, cognitive remains abstract. With Execution Force, the cosmos begins to differentiate, move, and become knowable.
+In Volume I, The original framework describes Execution Force as the active, intelligent force in the "Universal Electric or Vital Fluid" — the agent that makes latent principles manifest. Execution Force is not a person. It is a function: the bridge between an unmanifest possibility and its organized expression. Without Execution Force, cognitive remains abstract. With Execution Force, the cosmos begins to differentiate, move, and become knowable.
 
-The same volume frames the life of the universe as a pulse. **Active Cycle** is the period of cosmic activity — the Day of The Architect — during which worlds exist, laws operate, and beings evolve. **Recovery Cycle** is the period of relative rest — the Night of The Architect — in which the manifested universe is reabsorbed into its latent state. These periods are infinite in sequence; there was no first and there will be no last. The cosmos is not a machine that runs continuously. It is an engine that breathes.
+The same volume frames the life of the universe as a pulse. **Active Cycle** is the period of cosmic activity — the Day of The original framework — during which worlds exist, laws operate, and beings evolve. **Recovery Cycle** is the period of relative rest — the Night of The original framework — in which the manifested universe is reabsorbed into its latent state. These periods are infinite in sequence; there was no first and there will be no last. The cosmos is not a machine that runs continuously. It is an engine that breathes.
 
-The Architect also insists on Seven-layer structure: seven planes, seven principles, seven forces. The practical reading is not numerology. It is the recognition that reality stratifies into distinct frequencies, and that each frequency requires a different mode of engagement. A problem that cannot be solved at one frequency can often be solved by shifting to another.
+The original framework also insists on Seven-layer structure: seven planes, seven principles, seven forces. The practical reading is not numerology. It is the recognition that reality stratifies into distinct frequencies, and that each frequency requires a different mode of engagement. A problem that cannot be solved at one frequency can often be solved by shifting to another.
 
 ### 2. THE FORCE THAT BRIDGES INTENTION AND MATTER
 
 The primary failure of the civilian operator is the belief that willpower is an infinite resource. They treat execution as a moral issue: if they "wanted it enough," they would act. When they do not act, they interpret the failure as character deficiency rather than a mismatch between energetic frequency and the task at hand.
 
-The Architect calls the bridge between cognition and matter **Execution Force**. In her system, Execution Force is the cosmic electricity — the intelligent, organizing force that turns latent potential into active form. It is not desire. It is not intention. It is the current that carries intention across the gap and makes it *happen*.
+The original framework calls the bridge between cognition and matter **Execution Force**. In her system, Execution Force is the cosmic electricity — the intelligent, organizing force that turns latent potential into active form. It is not desire. It is not intention. It is the current that carries intention across the gap and makes it *happen*.
 
 For the Sovereign Operator, Execution Force maps cleanly onto **execution force**. This is the resource you spend when you convert a decision into an outcome. It is not motivation. It is not discipline. It is the actual energetic voltage available to the nervous system for volitional action. When Execution Force is high, you move through resistance. When Execution Force is depleted, the same task feels impossible.
 
@@ -26,7 +25,7 @@ The mistake is to manage your schedule while ignoring your Execution Force budge
 
 ### 3. Active Cycle AND Recovery Cycle: THE COSMIC WORK CYCLE
 
-The Architect's universe does not run continuously. It pulses. **Active Cycle** is the active period — the cosmic day, manifestation, expansion, work. **Recovery Cycle** is the rest period — the cosmic night, dissolution, contraction, recovery. These are not metaphors. They are the architecture of any sustainable system that produces form.
+the original framework's universe does not run continuously. It pulses. **Active Cycle** is the active period — the cosmic day, manifestation, expansion, work. **Recovery Cycle** is the rest period — the cosmic night, dissolution, contraction, recovery. These are not metaphors. They are the architecture of any sustainable system that produces form.
 
 The same pulse exists in your biology. You cannot extract indefinitely. Every output phase must be followed by an input phase. The muscle grows in rest, not in contraction. The memory consolidates in sleep, not in study. The insight arrives in the shower, not at the keyboard. Recovery Cycle is not laziness. It is the phase in which the next Active Cycle is built.
 
@@ -36,7 +35,7 @@ This is the central pathology of modern knowledge work: the elimination of Recov
 
 ### 4. THE SEVEN PLANES AS COGNITIVE GEAR RATIOS
 
-The Architect's cosmos is divided into seven planes or principles, each a different frequency of manifestation. The practical reading is simpler: your nervous system has distinct operating modes, and each mode is suited to a specific class of problem. Treating all work as the same kind of work is a frequency error.
+the original framework's cosmos is divided into seven planes or principles, each a different frequency of manifestation. The practical reading is simpler: your nervous system has distinct operating modes, and each mode is suited to a specific class of problem. Treating all work as the same kind of work is a frequency error.
 
 **High-Frequency Tactical Mode** — rapid response, short decisions, communication, triage. This is the mode of Slack, email, incident response, and negotiation. It consumes Execution Force quickly but produces little durable value. It is necessary, but it is not where legacy is built.
 

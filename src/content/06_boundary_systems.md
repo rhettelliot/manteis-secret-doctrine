@@ -5,13 +5,12 @@
 **Threat Vector:** Leakage — One Layer Hijacking the Entire System
 
 > "The operator needs a stable stack to become one coherent system on Earth."
-> — *Archival Protocol: The Source Text*
 
 ## 1. THE LAYERED SELF: YOU ARE NOT ONE THING
 
 The standard model of identity is a single point: "I am a software engineer," "I am an anxious person," "I am a high performer." This model is operationally false. A human being is not a single entity. It is a stack of layers, each with its own needs, its own vulnerabilities, and its own optimal operating conditions.
 
-The Architect's seven principles provide a more useful architecture. Stripped of unnecessary metaphysics, the layers are:
+the original framework's seven principles provide a more useful architecture. Stripped of unnecessary metaphysics, the layers are:
 
 | Layer | Function | Modern Equivalent | Failure Mode |
 |---|---|---|---|
@@ -27,7 +26,7 @@ The operator's task is not to "fix" the self. It is to keep the layers in correc
 
 ## 2. THE BOUNDARY FIELD AS PERSONAL BOUNDARY SYSTEM
 
-The source text refers to the surrounding field as the operational perimeter. Read operationally, this is the **personal boundary system** — the set of membranes that determine what enters the self and what stays out.
+The original framework refers to the surrounding field as the operational perimeter. Read operationally, this is the **personal boundary system** — the set of membranes that determine what enters the self and what stays out.
 
 A healthy boundary system is selective. It admits nourishment: useful information, supportive relationships, aligned opportunities, restorative environments. It rejects toxins: manipulative narratives, energy-draining relationships, misaligned commitments, chronic noise.
 

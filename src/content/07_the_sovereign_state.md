@@ -5,13 +5,12 @@
 **Threat Vector:** Passive Cycling — Remaining a Node in the Engine
 
 > "The great Conscious Operators will produce integrated systems — once more generate clean architectures — in the Seventh Developmental Phase."
-> — *Archival Protocol: The Source Text*
 
 ## 1. THE CONSCIOUS OPERATOR AS SELF-DIRECTED OPERATOR
 
-The Architect's Conscious Operator is not a magician. Not a saint. Not a recluse who has escaped the world. The Conscious Operator is the operator who has completed the cycle voluntarily — not by accident, not by inheritance, but by conscious evolution through every phase and every layer.
+the original framework's Conscious Operator is not a magician. Not a saint. Not a recluse who has escaped the world. The Conscious Operator is the operator who has completed the cycle voluntarily — not by accident, not by inheritance, but by conscious evolution through every phase and every layer.
 
-In the source text, the Conscious Operator is the one who knows the secret of the cycles, who has passed through the seven principles, who has mastered the law of consequence rather than being mastered by it. Read operationally: the Conscious Operator is the **self-directed operator** — the person who has installed all the preceding protocols and now runs the system rather than being run by it.
+In the original specification, the Conscious Operator is the one who knows the secret of the cycles, who has passed through the seven principles, who has mastered the law of consequence rather than being mastered by it. Read operationally: the Conscious Operator is the **self-directed operator** — the person who has installed all the preceding protocols and now runs the system rather than being run by it.
 
 The goal of this manual is not abstract attainment. It is operational sovereignty. The operator who reaches the Sovereign State is not above the world. They are ** architecturally beneath it** — stable enough to shape it without being pulled into its oscillations.
 
@@ -24,7 +23,7 @@ The preceding six protocols are not independent chapters. They are modules of a 
 2. **The Rendering Layer (Ch 01):** You recognize that experience is rendered, not received. You can update the renderer instead of fighting the rendered world.
 3. **Fractal Architecture (Ch 02):** You see the same patterns across scales. You solve problems at the micro-scale and let the fractal propagate upward.
 4. **Frequency Dynamics (Ch 03):** You modulate your state mechanically. You do not wait to "feel like it." You change the rate, and the state follows.
-5. **Spectrum Operations (Ch 04, Kybalion):** You transmute poles instead of fighting them. You slide along spectra rather than clinging to one end.
+5. **Spectrum Operations (Ch 04, the companion manual):** You transmute poles instead of fighting them. You slide along spectra rather than clinging to one end.
 6. **Phase Architecture (Ch 04, this manual):** You know which life-career phase you are in and install the correct operating procedures for that phase.
 7. **The Cycle Engine (Ch 05):** You identify recurring patterns, map the perspectives, and change the response until the cycle completes.
 8. **Boundary Systems (Ch 06):** You maintain a layered self with healthy perimeters. You audit the Accumulated Dispositions and release attachment.
@@ -43,7 +42,7 @@ This is the difference between the Accumulation phase and the Conscious Operator
 
 ## 4. THE SIXTH AND SEVENTH PHASES: INTEGRATION AND TRANSMISSION
 
-The Architect's Sixth and Seventh Developmental Phases represent synthesis and return. In operational terms, this is the phase where the operator's internal architecture is complete enough that the work becomes **transmission**.
+the original framework's Sixth and Seventh Developmental Phases represent synthesis and return. In operational terms, this is the phase where the operator's internal architecture is complete enough that the work becomes **transmission**.
 
 Transmission is not teaching in the conventional sense. It is the act of making your integrated state available to others through your presence, your work, and your systems. The operator who has reached this phase does not need to announce it. Their output becomes the instruction.
 
@@ -57,7 +56,7 @@ The warning remains: premature transmission is operational bypassing. The operat
 
 ## 5. THE RETURN TO SOURCE — NOW WITH UNDERSTANDING
 
-The source text describes the final trajectory as a return to the substrate — but now with full consciousness, not as unconscious extension. The operator returns to the substrate, but now they know what the substrate is.
+The original framework describes the final trajectory as a return to the substrate — but now with full consciousness, not as unconscious extension. The operator returns to the substrate, but now they know what the substrate is.
 
 In practical terms, this means the operator eventually releases the need to *become* anything. They have built the systems, completed the cycles, and maintained the boundaries. What remains is the work itself, done cleanly, without the desperation of someone trying to use the work to complete themselves.
 
@@ -145,9 +144,9 @@ The antidote is diagnostic honesty. The Sovereign Operator is the one who can ad
 
 **Procedure:**
 1. Each evening, answer three questions in writing:
-   - What did I render today that was accurate?
-   - What cycle tried to run, and how did I respond?
-   - What boundary did I maintain, and what boundary did I breach?
+ - What did I render today that was accurate?
+ - What cycle tried to run, and how did I respond?
+ - What boundary did I maintain, and what boundary did I breach?
 2. Once a week, review the answers and look for patterns.
 3. Adjust one protocol based on the weekly review.
 
@@ -165,13 +164,13 @@ This is why the daily protocol is the heart of sovereignty. It is not a ritual o
 
 The Conscious Operator transmits not through explanation but through embodiment. The operator in the Sovereign State does not need to tell others how to live. Their presence, their decisions, and their systems do the teaching.
 
-This is the operational meaning of "Mind-born immaculate Sons" in the source text. Transmission is not reproduction of doctrine. It is the generation of new systems from an integrated source. The manual you are reading is one form of transmission. A codebase is another. A well-run company is another. A stable family is another. The form is secondary to the integration of the source.
+This is the operational meaning of "Mind-born immaculate Sons" in the original framework. Transmission is not reproduction of doctrine. It is the generation of new systems from an integrated source. The manual you are reading is one form of transmission. A codebase is another. A well-run company is another. A stable family is another. The form is secondary to the integration of the source.
 
 ## 14. SUMMARY: THE END OF THE INSTALLATION
 
 The seven protocols of this manual are a single installation. Each protocol corrects a specific failure mode in the default human operating system. Together they form an integrated architecture: substrate awareness, rendering control, fractal pattern recognition, frequency management, phase navigation, cycle completion, and boundary maintenance.
 
-The Sovereign State is the result of that installation. The operator is no longer a passenger in a reactive simulation. They are the administrator of the rendering engine, the driver of the cycle, the architect of the phases, and the maintainer of the boundary. The work that follows is the work of a lifetime, but it is now done from sovereignty rather than toward it.
+The Sovereign State is the result of that installation. The operator is no longer a passenger in a reactive simulation. They are the administrator of the rendering engine, the driver of the cycle, the original framework of the phases, and the maintainer of the boundary. The work that follows is the work of a lifetime, but it is now done from sovereignty rather than toward it.
 
 **Status:** Sovereign State Operational.
 **System Status:** ONLINE.

@@ -5,13 +5,15 @@
 **Threat Vector:** The Same Problem in a Different Costume
 
 > "The Core Identities have to pass through their mineral, vegetable, and animal forms, before reaching the human stage; and the same Core Identity has to pass through the "Circle of Necessity," shaped by such iteration for the conditions endured or patterns encoded in the former life."
-> — *Archival Protocol: The Source Text*
+
+
+> **Note on terminology:** The word *karma* has been deliberately avoided throughout this manual. In popular culture, the term has been skewed into a vague notion of "cosmic justice" or "what goes around comes around" — a simplification that strips it of its operational precision. For the conscious operator, the relevant concept is *consequence*: the accumulated causal architecture that determines which patterns recur. Every action leaves a structural trace. That is not mysticism. It is engineering.
 
 ## 1. THE CYCLE AS RECURRING LIFE PATTERN
 
 The standard view of life is linear: events happen, you learn, you move on. This view is half-true at best. In practice, the same friction points return. The same relationship dynamic reappears with new actors. The same career mistake repeats under a new title. The same emotional wound is triggered by a different trigger.
 
-The Architect's doctrine of Cycles reframes this perfectly. A Cycle is a sequence of progression through all the planes or perspectives of a system. The same Core Identity — the same essential self — returns again and again, each time at a slightly deeper level. The lesson is not learned once and forgotten. It is cycled through until the pattern is complete.
+the original framework's doctrine of Cycles reframes this perfectly. A Cycle is a sequence of progression through all the planes or perspectives of a system. The same Core Identity — the same essential self — returns again and again, each time at a slightly deeper level. The lesson is not learned once and forgotten. It is cycled through until the pattern is complete.
 
 Operationally: **you do not have many problems. You have a small number of patterns that keep showing up in different costumes.**
 
@@ -32,7 +34,7 @@ A loop is closed not by "fixing the outcome" but by **changing the response**. T
 
 ## 3. THE CORE IDENTITY: PERSISTENT PATTERN-RECOGNIZER ACROSS CAREER CHANGES
 
-The Architect's Core Identity is described as the essential self, impersonal on the higher layers, the thread on which the various personalities are strung. The Core Identity is not the job title, the relationship status, the bank account, or the public reputation. It is the persistent identity that moves through all of them.
+the original framework's Core Identity is described as the essential self, impersonal on the higher layers, the thread on which the various personalities are strung. The Core Identity is not the job title, the relationship status, the bank account, or the public reputation. It is the persistent identity that moves through all of them.
 
 For the secular operator, the Core Identity is the **core pattern-recognizer** — the part of you that persists across contexts and notices when the same cycle is beginning again. It is the witness that says: "This feels like last time." It is the part that can observe the pattern from outside the role being played.
 
@@ -40,7 +42,7 @@ The tragedy of the Reactive Human is that they identify with the costume and not
 
 ## 4. PERSPECTIVES: DIFFERENT LENSES ON THE SAME PROBLEM
 
-In the source text, each Cycle contains seven Perspectives — seven layers or perspectives through which the Core Identity passes. Operationally, these are the different lenses through which the same life pattern can be viewed.
+In the original specification, each Cycle contains seven Perspectives — seven layers or perspectives through which the Core Identity passes. Operationally, these are the different lenses through which the same life pattern can be viewed.
 
 A single problem — for example, "I cannot finish what I start" — can be viewed through multiple perspectives:
 - **Physical Perspective:** The body is tired, the schedule is overloaded, the environment is distracting.
@@ -73,7 +75,7 @@ The Cycle Engine respects only changed behavior. Intention is not enough. Insigh
 
 ## 6. THE CORE IDENTITY AS ARCHITECT OF CONSEQUENCE
 
-The source text states that the same Core Identities entered the empty shells of the First Race and are among us now. Read operationally: the same core identity that generated your earliest patterns is still generating your current ones. The Core Identity is not a victim of consequence. It is the author of it, and therefore the only entity that can rewrite it.
+The original framework states that the same Core Identities entered the empty shells of the First Race and are among us now. Read operationally: the same core identity that generated your earliest patterns is still generating your current ones. The Core Identity is not a victim of consequence. It is the author of it, and therefore the only entity that can rewrite it.
 
 This is a hard proposition. It means that the operator cannot outsource responsibility. The market, the parents, the ex-partner, the bad boss — these may be real causes, but they are not the *current* cause. The current cause is the operator's continued generation of the same response.
 

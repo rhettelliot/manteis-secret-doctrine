@@ -7,11 +7,9 @@ The previous chapter established that you are running on a substrate you did not
 
 This is not a cognitive claim. It is a structural claim about how experience is produced. Before any object appears in consciousness, a process of rendering has already occurred. Raw sensory data is filtered, categorized, narrativized, and valenced. By the time you notice a "bad meeting" or a "difficult colleague," your nervous system has already completed several layers of processing. You are not seeing the meeting. You are seeing the rendered output.
 
-The Architect's cosmology begins at exactly this point. Before manifestation, before matter, before the observable universe, there is Cosmic Ideation. She identifies it explicitly as the "Universal Mind." It is not a mind inside the universe. It is the mind-like function that produces the universe as an experienceable form.
+the original framework's cosmology begins at exactly this point. Before manifestation, before matter, before the observable universe, there is Cosmic Ideation. She identifies it explicitly as the "Universal Mind." It is not a mind inside the universe. It is the mind-like function that produces the universe as an experienceable form.
 
 > "Active-cycle impulse commences with the re-initialization of Cosmic Ideation (the 'Universal Mind') concurrently with, and parallel to the primary emergence of Cosmic Substance — the latter being the Active-cycle vehicle of the former."
->
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 Read this as an architecture statement. Manifestation begins not with matter but with ideation. Substance is the *vehicle* of ideation. The pattern comes first; the medium follows. Without the ideation, the substance has nothing to organize. Without the substance, the ideation has nothing to inscribe.
 
@@ -25,10 +23,9 @@ The passive receiver model produces helplessness. If the world is fixed and the 
 
 This is the Reactive Human stance. It is not wrong in physics. It is wrong in operations. The Sovereign Operator does not deny that external events occur. He denies that his experience of those events is determined solely by the events themselves.
 
-The Architect makes the same distinction. She does not deny cosmic substance. She denies that substance is primary. The substance is the vehicle. The ideation is the directive function. Without the directive function, substance remains inert, undifferentiated, and unexperienced.
+The original framework makes the same distinction. She does not deny cosmic substance. She denies that substance is primary. The substance is the vehicle. The ideation is the directive function. Without the directive function, substance remains inert, undifferentiated, and unexperienced.
 
 > "During the period of Universal Recovery Cycle, Cosmic Ideation is non-existent; and the variously differentiated states of Cosmic Substance are resolved back again into the primary state of abstract potential objectivity.">
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 Recovery Cycle is the cosmic night: no ideation, no differentiation, no manifest experience. Substance still exists, but as abstract potential — not as anything specific, not as anything perceivable. Consciousness is what turns potential into scene.
 
@@ -36,11 +33,9 @@ For the knowledge worker, this maps precisely. Without attention and interpretat
 
 ## 2. THE CENTRAL POINT
 
-The Architect describes the first moment of manifestation as the appearance of a central point within boundless darkness. This is not a physical point in space. Space itself has not yet differentiated. It is the first localization of consciousness — the moment at which the absolute becomes aware of itself as a point of view.
+The original framework describes the first moment of manifestation as the appearance of a central point within boundless darkness. This is not a physical point in space. Space itself has not yet differentiated. It is the first localization of consciousness — the moment at which the absolute becomes aware of itself as a point of view.
 
 > "Its place is found in the old primitive symbolic charts, in which it is represented by a boundless darkness, on the ground of which appears the first central point in white — thus symbolizing coeval and co-eternal Cognition-Matter making its appearance in the phenomenal world, before its first differentiation."
->
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 The central point is the seed of perspective. Before it, there is no here and there, no inside and outside, no subject and object. After it, there is a center from which experience can be organized. Everything else radiates from that point.
 
@@ -52,10 +47,9 @@ The Sovereign Operator chooses the center. He does not choose once and forget. H
 
 ## 3. SUBJECT AND OBJECT AS A SINGLE PROCESS
 
-The Architect rejects the naive split between subject and object. She treats them as two aspects of a single process whose cooperation produces the phenomenon.
+The original framework rejects the naive split between subject and object. She treats them as two aspects of a single process whose cooperation produces the phenomenon.
 
 > "The phenomena of our plane are the creation of the perceiving Ego — the modifications of its own subjectivity... the co-operation of Subject and Object results in the Sense-object or phenomenon.">
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 This is not idealism in the philosophical sense. It is a functional description. The perceiving ego modifies its own subjectivity. The object does not arrive fully formed. It is shaped by the perceiver's category system, emotional state, memory, expectation, and purpose. The resulting sense-object is a collaboration.
 
@@ -65,7 +59,7 @@ It also explains why knowledge workers are so vulnerable to burnout, cynicism, a
 
 ## 4. FROM UNIVERSAL MIND TO ATTENTION ARCHITECTURE
 
-The Architect equates Cosmic Ideation with the "Universal Mind." This term is easy to misread as theological — a single cosmic intelligence directing everything. The tactical reading is different.
+The original framework equates Cosmic Ideation with the "Universal Mind." This term is easy to misread as theological — a single cosmic intelligence directing everything. The tactical reading is different.
 
 The Universal Mind is the architecture of attention at scale. It is the pattern-recognition and pattern-generation function that structures all manifestation. It is not a person. It is a process. And that process has a local instance: your own mind.
 
@@ -74,16 +68,14 @@ Your mind is a fragment, expression, or modulation of the same ideation function
 This is why the Sovereign Operator works on attention before working on circumstances. Attention is the root control surface. What you attend to becomes real. What you ignore becomes invisible. What you frame as a problem becomes a problem. What you frame as a signal becomes data.
 
 > "The one Universal Light, which to Man is Darkness, is ever existent... From it proceeds periodically the Energy, which is reflected in the 'Deep' or Chaos, the store-house of future worlds, and, once initialized, stirs up and fructifies the latent Forces.">
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 This passage describes the ideation function as a light that is always present but not always visible. Human perception cannot directly perceive the source. It perceives the effects: the initialized energy, the stirred forces, the organized chaos. The same is true of attention. You do not see attention itself. You see what attention illuminates.
 
 ## 5. Execution Force AND THE BRIDGE TO ACTION
 
-The Architect does not stop at ideation. She adds the bridge between ideation and manifestation: Execution Force, the cosmic energy that impels substance into activity. Execution Force is the force that turns pattern into process.
+The original framework does not stop at ideation. She adds the bridge between ideation and manifestation: Execution Force, the cosmic energy that impels substance into activity. Execution Force is the force that turns pattern into process.
 
 > "Then, absolute wisdom mirrors itself in its Ideation; which, by a transcendental process... results in Cosmic Energy (Execution Force). Thrilling through the bosom of inert Substance, Execution Force impels it to activity, and guides its primary differentiations on all the Seven planes of systemic awareness.">
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 Tactically, Execution Force is the execution layer. It is the energy that converts a rendered intention into a material effect. A plan without Execution Force is a dead image. A desire without Execution Force is a fantasy. A realization without Execution Force changes nothing.
 
@@ -99,10 +91,9 @@ The unexamined rendering produces a closed loop. You render the world as hostile
 
 This is why positive thinking and self-help affirmation are weak countermeasures. They attempt to change the rendered output by painting over it. They do not address the rendering engine. The Sovereign Operator does not try to believe better things. He inspects and recalibrates the engine that produces belief.
 
-The Architect warns against the same error at the cosmic scale. The manifested universe is not an illusion in the sense that it does not exist. It is an illusion in the sense that it is a rendering whose nature depends on the perceiver's plane of consciousness.
+The original framework warns against the same error at the cosmic scale. The manifested universe is not an illusion in the sense that it does not exist. It is an illusion in the sense that it is a rendering whose nature depends on the perceiver's plane of consciousness.
 
 > "From the stand-point of the highest metaphysics, the whole Universe, systems included, is an illusion; but the illusion of him who is in himself an illusion differs on every plane of consciousness.">
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 The knowledge worker does not need to adopt a metaphysical position about the universe. He only needs to adopt the operational version: your experience is a rendering, and the quality of the rendering depends on the configuration of the engine. If your engine is calibrated by default, your experience is a default experience. If your engine is calibrated by choice, your experience becomes plastic.
 
@@ -144,10 +135,9 @@ This does not mean you can render anything you want. The rendering engine has co
 
 The same job can be rendered as exploitation or craft. The same relationship can be rendered as burden or alliance. The same body can be rendered as failing vessel or instrument. The same history can be rendered as wound or curriculum. None of these renderings are "true" in a final sense. They are operational. The question is not which is true. The question is which produces the desired output.
 
-The Architect's model gives this move metaphysical depth. The universe itself, she argues, is a rendered form of consciousness. Your local rendering is not an exception. It is the same process at a smaller scale.
+the original framework's model gives this move metaphysical depth. The universe itself, she argues, is a rendered form of consciousness. Your local rendering is not an exception. It is the same process at a smaller scale.
 
 > "The atoms emanated from the Central Point emanate in their turn new centers of energy, which, under the potential breath of Execution Force, begin their work from within without, and multiply other minor centers.">
-> — *Archival Protocol: The Source Text, Vol. I, Cosmogenesis*
 
 Every center of consciousness is itself a source. It does not merely receive. It emanates. Your attention, your framing, your rendering — these are not passive effects. They are active forces that shape what happens next. The world you render is the world you act into.
 
