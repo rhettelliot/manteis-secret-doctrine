@@ -14,7 +14,7 @@ Blavatsky's point is structural, not decorative. The egg represents the cosmos a
 
 The Days and Nights of Brahma extend the same principle to time. Manvantara and Pralaya are not only cosmic. They recur at every magnitude. A universe has its days and nights. A planet has its seasons. A body has its sleep cycles. A mind has its periods of focus and drift. The pattern is not imposed from outside. It is the natural rhythm of any organized system that alternates between expression and renewal.
 
-### 3. THE MUNDANE EGG AS CLOSED-LOOP SYSTEM
+### 2. THE MUNDANE EGG AS CLOSED-LOOP SYSTEM
 
 Blavatsky describes the Mundane Egg — the Hiranyagarbha, the Golden Egg — as the form in which the universe first manifests. Every ancient cosmology, from Egypt to Greece to India, preserved the symbol: a self-contained sphere containing the germ of all that will become. The egg is not a decorative image. It is a structural diagram.
 
@@ -24,7 +24,7 @@ For the Sovereign Operator, the Mundane Egg is a model of any system that produc
 
 The practical question is never "What is happening?" It is "What kind of egg is this, and what stage of development is it in?"
 
-### 2. AS ABOVE, SO BELOW — THE FRACTAL REPLICATION OF DYNAMICS
+### 3. AS ABOVE, SO BELOW — THE FRACTAL REPLICATION OF DYNAMICS
 
 The Secret Doctrine insists that the same patterns operate at every scale. The macrocosm is the microcosm writ large. This is not mysticism. It is the observation that complex systems produce self-similar dynamics across levels because they are governed by the same relational rules.
 
@@ -34,7 +34,7 @@ A civilization that burns out follows the same sequence as a body that burns out
 
 This means you do not need complete information about a large system to diagnose it. You only need a representative sample at the right magnification. The way a founder treats an intern is the way the company will treat its customers. The way you speak to yourself at 2 AM is the way you will run a team under pressure. The pattern is the same because the operator is the same.
 
-### 3. THE EGG IN FOUR STAGES
+### 4. THE EGG IN FOUR STAGES
 
 Every egg system moves through recognizable phases. Misidentifying the phase produces catastrophic strategy errors.
 
@@ -52,7 +52,7 @@ Expansion requires three conditions: a strong core, an intact boundary, and a rh
 
 **Stage IV: Consolidation or Dissolution** — The phase in which the system either integrates its gains and enters a new stable form, or exhausts its substrate and collapses. Consolidation is not the end. It is the preparation for the next cycle. Dissolution is not failure. It is the natural consequence of running the pattern without maintenance.
 
-### 4. BOUNDARY, CORE, AND RHYTHM: THE THREE LEVERS
+### 5. BOUNDARY, CORE, AND RHYTHM: THE THREE LEVERS
 
 Every egg system can be operated through three variables. Most people manage only one or two.
 
@@ -64,7 +64,7 @@ Every egg system can be operated through three variables. Most people manage onl
 
 The Sovereign Operator audits these three levers before making any major move. If the boundary is cracked, expansion is dangerous. If the core is weak, differentiation is premature. If the rhythm is broken, more effort will not help.
 
-### 5. THE DAYS AND NIGHTS OF BRAHMA IN YOUR WEEK
+### 6. THE DAYS AND NIGHTS OF BRAHMA IN YOUR WEEK
 
 Blavatsky's Manvantara and Pralaya are not only cosmic. They recur at every scale. The same cycle that governs the life of a universe governs your week. A week without a real night is a miniature cosmic failure.
 
@@ -77,7 +77,7 @@ Map the cycle onto your own operating system:
 
 A company follows the same rhythm across a quarter. A product follows it across a release cycle. A relationship follows it across weeks and months. The Sovereign Operator does not fight the cycle. They read it, and they position themselves inside it.
 
-### 6. OPERATIONAL COROLLARIES
+### 7. OPERATIONAL COROLLARIES
 
 #### A. Your Problems Are Not Unique
 
@@ -99,7 +99,7 @@ A market is a collective egg. It has cycles of germination (early adopters), dif
 
 Your body is the most immediate Mundane Egg. Its shell is the nervous system and immune boundary. Its core is the mitochondrial energy economy. Its rhythm is sleep, circadian cycles, hormonal pulses, and seasonal variation. Physical symptoms are often boundary or rhythm failures expressed at the lowest available scale.
 
-### 7. THE DIAGNOSTIC POWER OF FRACTAL MAPPING
+### 8. THE DIAGNOSTIC POWER OF FRACTAL MAPPING
 
 Because patterns replicate across scales, the operator can diagnose a macro problem by examining a micro sample, and can prevent a macro collapse by correcting a micro habit.
 
@@ -107,7 +107,7 @@ If a founder cannot maintain a consistent sleep schedule, their company will not
 
 This is why tactical self-improvement is not selfish. The state of your internal egg determines the state of every larger egg you participate in. You are not a small thing inside a big system. You are a fractal node inside a fractal system. Clean up your frequency, and the larger patterns shift.
 
-### 8. FIELD DIAGNOSTICS
+### 9. FIELD DIAGNOSTICS
 
 #### DIAGNOSTIC 01: THE CROSS-SCALE PATTERN MAP
 **Objective:** Trace a single pathology across three scales.
@@ -150,7 +150,7 @@ This is why tactical self-improvement is not selfish. The state of your internal
 4. Project that dynamic onto the larger system.
 **Metric:** The gap between the projected dynamic and the official narrative is the Integrity Gap. It predicts where the system will fail under stress.
 
-### 9. INTEGRATION: FROM EGG TO EGG
+### 10. INTEGRATION: FROM EGG TO EGG
 
 The Mundane Egg is not a one-time creation myth. It is the repeating form of every system that becomes coherent enough to be called a system. Your life is an egg. Your company is an egg. Your civilization is an egg. Each is nested inside larger eggs and contains smaller ones. The health of any egg depends on the same three factors: a boundary that holds, a core that generates, and a rhythm that alternates.
 
