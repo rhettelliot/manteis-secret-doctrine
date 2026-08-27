@@ -1,6 +1,6 @@
 # APPENDIX B: SOURCE MATERIAL INDEX
 
-This index maps the principal source material — H.P. Blavatsky's *The Secret Doctrine* (1888), Volume I: Cosmogenesis and Volume II: Anthropogenesis — to the operational protocols in this manual. Citations point to the relevant sections, Stanzas, and approximate locations in the source text held in the project repository.
+This index maps the principal source material — The Architect's *The Secret Doctrine* (1888), Volume I: Cosmogenesis and Volume II: Anthropogenesis — to the operational protocols in this manual. Citations point to the relevant sections, Stanzas, and approximate locations in the source text held in the project repository.
 
 ## B.1 GENERAL SOURCE DESCRIPTION
 
@@ -13,11 +13,11 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 
 | Source Location | Topic | Mapped Protocol |
 |---|---|---|
-| Proem, § III — Primordial Substance and Divine Thought | Mulaprakriti, Parabrahm, Akasa as substrate | Chapter 00 — Preface (Substrate Awareness) |
+| Proem, § III — Primordial Substance and Divine Thought | Root Substrate, The Absolute Context, Substrate Medium as substrate | Chapter 00 — Preface (Substrate Awareness) |
 | Stanza I — The Night of the Universe | Cosmic Ideation, Universal Mind, the Central Point | Chapter 01 — The Rendering Layer |
-| Stanzas II–III, §§ III–IV | Fohat, Manvantara/Pralaya, seven planes, vibration | Chapter 02 — Frequency Dynamics |
-| §§ V–VII — Mundane Egg, Days and Nights of Brahma | Fractal architecture, macrocosm/microcosm, periodicity | Chapter 03 — Fractal Architecture |
-| Vol. I, § on the Seven Principles | Sthula-sarira, Linga-sarira, Kama-rupa, Manas, etc. | Chapter 06 — Boundary Systems |
+| Stanzas II–III, §§ III–IV | Execution Force, Active Cycle/Recovery Cycle, seven planes, vibration | Chapter 02 — Frequency Dynamics |
+| §§ V–VII — Mundane Egg, Days and Nights of The Architect | Fractal architecture, macrocosm/microcosm, periodicity | Chapter 03 — Fractal Architecture |
+| Vol. I, § on the Seven Principles | Physical-Body, Vital-Body, Drive Layer-rupa, Cognitive Layer, etc. | Chapter 06 — Boundary Systems |
 
 ## B.3 VOLUME II — ANTHROPOGENESIS MAPPING
 
@@ -30,7 +30,7 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 | §§ on Rounds and Globes (~284 mentions of "Round") | Cyclic progression through seven globes | Chapter 05 — The Cycle Engine |
 | § on Karma (~89 mentions) | Causal consequence, rebirth, ethical causation | Chapter 05 — The Cycle Engine |
 | § on Monads (~127 mentions) | Essential self, reincarnating identity | Chapter 05 — The Cycle Engine |
-| § on Skandhas and constitution of man | Aggregates, dispositions, auric field, tanha | Chapter 06 — Boundary Systems |
+| § on Accumulated Dispositions and constitution of man | Aggregates, dispositions, auric field, Attachment Driver | Chapter 06 — Boundary Systems |
 | Final chapters, Sixth and Seventh Root Races | Synthesis, integration, the Adept, conscious evolution | Chapter 07 — The Sovereign State |
 | Stanza XII — Fifth Race and Its Divine Instructors | Aryan mental phase, instruction, transmission | Chapter 07 — The Sovereign State |
 
@@ -40,7 +40,7 @@ The source file used for this reframing is `source/secret_doctrine_vol2_anthropo
 |---|---|---|
 | "The Alpha and the Omega of Being are but the two facets of the one Absolute Existence" | Vol. I, Proem, § III | Chapter 00 — distinction between manifest and unmanifest substrate |
 | "Cosmic Ideation — Spirit; Cosmic Substance — the vehicle of thought" | Vol. I, Proem, § III | Chapter 01 — rendering layer as ideation plus substance |
-| "Primordial Substance is Akasa, the Upadhi of divine thought" | Vol. I, Proem, § III | Chapter 01 — medium of mental manifestation |
+| "Primordial Substance is Substrate Medium, the Upadhi of divine thought" | Vol. I, Proem, § III | Chapter 01 — medium of mental manifestation |
 | "The Monads of the presentments of men of the Third Round" | Vol. II, Stanza III, commentary | Chapter 04 — phase development of the essential self |
 | "Man needs four flames and three fives to become one on Earth" | Vol. II, Stanza III, commentary | Chapter 06 — layered self and integration of principles |
 | "The higher Pitris had no hand in his physical creation" | Vol. II, Stanza IV, commentary | Chapter 04 — the gradual densification of the human system |
@@ -88,4 +88,4 @@ For operators who wish to read the source directly, the recommended sequence is:
 4. Read the commentary sections on Karma, Monads, and Rounds in Vol. II for the cycle engine.
 5. Read the sections on the seven principles and the auric field for the boundary systems.
 
-Read tactically, not exegetically. The goal is to extract operational distinctions, not to reconstruct Blavatsky's cosmology.
+Read tactically, not exegetically. The goal is to extract operational distinctions, not to reconstruct The Architect's cosmology.

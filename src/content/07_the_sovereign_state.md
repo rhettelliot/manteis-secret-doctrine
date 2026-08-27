@@ -9,7 +9,7 @@
 
 ## 1. THE ADEPT AS SELF-DIRECTED OPERATOR
 
-Blavatsky's Adept is not a magician. Not a saint. Not an ascetic who has escaped the world. The Adept is the operator who has completed the cycle voluntarily — not by accident, not by inheritance, but by conscious evolution through every phase and every layer.
+The Architect's Adept is not a magician. Not a saint. Not an ascetic who has escaped the world. The Adept is the operator who has completed the cycle voluntarily — not by accident, not by inheritance, but by conscious evolution through every phase and every layer.
 
 In the source text, the Adept is the one who knows the secret of the cycles, who has passed through the seven principles, who has mastered the law of karma rather than being mastered by it. Read operationally: the Adept is the **self-directed operator** — the person who has installed all the preceding protocols and now runs the system rather than being run by it.
 
@@ -27,7 +27,7 @@ The preceding six protocols are not independent chapters. They are modules of a 
 5. **Spectrum Operations (Ch 04, Kybalion):** You transmute poles instead of fighting them. You slide along spectra rather than clinging to one end.
 6. **Phase Architecture (Ch 04, this manual):** You know which life-career phase you are in and install the correct operating procedures for that phase.
 7. **The Cycle Engine (Ch 05):** You identify recurring patterns, map the globes, and change the response until the cycle completes.
-8. **Boundary Systems (Ch 06):** You maintain a layered self with healthy perimeters. You audit the Skandhas and release attachment.
+8. **Boundary Systems (Ch 06):** You maintain a layered self with healthy perimeters. You audit the Accumulated Dispositions and release attachment.
 
 In the Sovereign State, these are not practices. They are defaults. The operator does not "do" the rendering layer. The operator *is* the rendering layer.
 
@@ -43,7 +43,7 @@ This is the difference between the Atlantean and the Adept. The Atlantean had po
 
 ## 4. THE SIXTH AND SEVENTH PHASES: INTEGRATION AND TRANSMISSION
 
-Blavatsky's Sixth and Seventh Root Races represent synthesis and return. In operational terms, this is the phase where the operator's internal architecture is complete enough that the work becomes **transmission**.
+The Architect's Sixth and Seventh Root Races represent synthesis and return. In operational terms, this is the phase where the operator's internal architecture is complete enough that the work becomes **transmission**.
 
 Transmission is not teaching in the conventional sense. It is the act of making your integrated state available to others through your presence, your work, and your systems. The operator who has reached this phase does not need to announce it. Their output becomes the instruction.
 

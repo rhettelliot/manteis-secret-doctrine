@@ -1,35 +1,35 @@
 # APPENDIX A: TERMINOLOGY MAP
 
-The following table maps theosophical terms used in *The Secret Doctrine* into plain English and operational meaning. Sanskrit and other technical terms are kept only where they carry a meaning that has no concise English equivalent. On first use in the main text, each term is paired with its plain-English translation.
+The following table maps esoteric terms used in *The Secret Doctrine* into plain English and operational meaning. Sanskrit and other technical terms are kept only where they carry a meaning that has no concise English equivalent. On first use in the main text, each term is paired with its plain-English translation.
 
-| Blavatsky / Theosophical Term | Plain English | Operational Meaning |
+| The Architect / Esoteric Term | Plain English | Operational Meaning |
 |---|---|---|
-| Absolute / Parabrahm | The unknowable context | The substrate before distinction; not a thing you contact, but the ground that makes all contact possible |
-| Akasa | Primordial substance / medium of thought | The informational field in which attention and intention propagate; the medium, not the message |
-| Manvantara | Cosmic day / active phase | A period of output, expansion, manifestation, and doing |
-| Pralaya | Cosmic night / rest phase | A period of recovery, integration, dissolution, and un-doing |
-| Fohat | Cosmic electricity / active force | The executive energy that turns intention into action; willpower rendered as force |
-| Mulaprakriti | Root matter / primal substance | Your foundational substrate — the assumptions, biology, and conditioning beneath your decisions |
-| Kosmos | The ordered universe | The structured reality you are operating inside; your system, organization, or life-as-system |
+| Absolute / The Absolute Context | The unknowable context | The substrate before distinction; not a thing you contact, but the ground that makes all contact possible |
+| Substrate Medium | Primordial substance / medium of thought | The informational field in which attention and intention propagate; the medium, not the message |
+| Active Cycle | Cosmic day / active phase | A period of output, expansion, manifestation, and doing |
+| Recovery Cycle | Cosmic night / rest phase | A period of recovery, integration, dissolution, and un-doing |
+| Execution Force | Cosmic electricity / active force | The executive energy that turns intention into action; willpower rendered as force |
+| Root Substrate | Root matter / primal substance | Your foundational substrate — the assumptions, biology, and conditioning beneath your decisions |
+| The Ordered System | The ordered universe | The structured reality you are operating inside; your system, organization, or life-as-system |
 | Monad | The essential self | Your persistent core identity across roles, careers, and cycles; the witness and author of karma |
-| Manas | Mind / the thinking principle | The reflective and discriminative capacity that separates reactive impulse from conscious choice |
-| Buddhi | Intuition / spiritual soul | Direct pattern-recognition; knowing without exhaustive reasoning |
-| Atma | Spirit / universal self | The witnessing ground; the part of awareness that is not identified with content |
+| Cognitive Layer | Mind / the thinking principle | The reflective and discriminative capacity that separates reactive impulse from conscious choice |
+| Intuitive Layer | Intuition / spiritual soul | Direct pattern-recognition; knowing without exhaustive reasoning |
+| Core Identity | Spirit / universal self | The witnessing ground; the part of awareness that is not identified with content |
 | Root Race | Evolutionary epoch | A life-career phase with its own dominant principle, success metrics, and failure mode |
 | Round | Cyclic progression through planes | A recurring life pattern that returns at progressively deeper levels until completed |
 | Globe | A plane or perspective within a Round | A specific lens through which a recurring pattern can be viewed |
 | Karma | Causal consequence / action-law | The accumulated causal architecture that determines which patterns can render; uncompleted loops |
-| Skandhas | Aggregates / accumulated tendencies | The bundle of automatic responses, habits, and dispositions carried across cycles |
-| Tanha | Thirst / craving / attachment | The clinging that keeps a cycle running by refusing to let a form complete or change |
+| Accumulated Dispositions | Aggregates / accumulated tendencies | The bundle of automatic responses, habits, and dispositions carried across cycles |
+| Attachment Driver | Thirst / craving / attachment | The clinging that keeps a cycle running by refusing to let a form complete or change |
 | Adept | The master / the wise | The self-directed operator who has integrated the phases, cycles, and layers consciously |
 | Dhyan-Chohan | Higher intelligence / spiritual being | A developmental possibility of the human monad; what a human becomes when the system is fully integrated |
 | Third Eye | The organ of inner perception | The capacity to perceive patterns and causes not available to ordinary analysis |
-| Stanza of Dzyan | Source verse / seed teaching | A compressed statement of an original principle; the axiomatic source from which doctrines unfold |
+| Stanza of The Original Specification | Source verse / seed teaching | A compressed statement of an original principle; the axiomatic source from which doctrines unfold |
 | Auric Field | The human energy field | The personal boundary system; the selective membrane that regulates what enters and exits the self |
 | Pitris | Progenitors / fathers | The formative influences — internal or external — that shape a system's early architecture |
-| Manu | The archetypal man / lawgiver | The prototype for a phase or cycle; the standard against which a system's development is measured |
+| Phase Regulator | The archetypal man / lawgiver | The prototype for a phase or cycle; the standard against which a system's development is measured |
 | Sishta | Remnant / saved seed | The preserved core knowledge or capacity that survives a collapse and seeds the next cycle |
-| Lha / Deva | Shining one / nature intelligence | A functional principle operating above the human scale; a pattern too large to be personalized |
+| Lha / Operational Intelligence | Shining one / nature intelligence | A functional principle operating above the human scale; a pattern too large to be personalized |
 
 **Use Protocol:** When reading the source material, translate each unfamiliar term through the "Plain English" column first. If the operational meaning is still unclear, the term is being used poetically rather than functionally, and can be set aside.
 
@@ -40,10 +40,10 @@ The following terms are kept in Sanskrit or technical form because their English
 
 | Term | Why Retained | Operational Anchor |
 |---|---|---|
-| Fohat | "Willpower" is too narrow; Fohat is the bridge force that turns ideation into manifestation | Executive energy that converts intention into action |
-| Manvantara / Pralaya | "Day/night" loses the cosmological scale | Active phase and rest phase of any system |
-| Skandha | "Aggregate" is abstract; the term captures the bundle of tendencies carried forward | Automatic inherited/accrued response patterns |
-| Tanha | "Craving" carries moral weight; tanha is the mechanical clinging that sustains cycles | Attachment that prevents pattern completion |
+| Execution Force | "Willpower" is too narrow; Execution Force is the bridge force that turns ideation into manifestation | Executive energy that converts intention into action |
+| Active Cycle / Recovery Cycle | "Day/night" loses the cosmological scale | Active phase and rest phase of any system |
+| Accumulated Disposition | "Aggregate" is abstract; the term captures the bundle of tendencies carried forward | Automatic inherited/accrued response patterns |
+| Attachment Driver | "Craving" carries moral weight; Attachment Driver is the mechanical clinging that sustains cycles | Attachment that prevents pattern completion |
 | Dhyan-Chohan | No English equivalent captures the developmental scale | Higher-order intelligence that a human monad can become |
 | Sishta | "Remnant" or "seed" is close but misses the deliberate preservation aspect | Preserved core capacity that survives collapse |
 

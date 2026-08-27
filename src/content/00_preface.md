@@ -7,11 +7,11 @@ Most knowledge workers are skilled at operating within a system they have never 
 
 This is the substrate problem: you are running advanced operations on a foundation you inherited, not one you chose. The foundation includes your assumptions about what work means, what success is, what a career should look like, what relationships are for, and what you are allowed to want. You did not install these assumptions. You absorbed them from family, school, media, corporate culture, and the ambient anxiety of post-consumerist capitalism. They are now the operating system beneath your consciousness. And like any operating system, they determine what can run and what cannot.
 
-Blavatsky begins *The Secret Doctrine* with the same problem at cosmic scale. Before manifestation, before matter, before thought, there is the substrate. She calls it **Mulaprakriti** — root matter — the unmanifested basis from which all subsequent forms proceed. Behind or beyond it lies **Parabrahm**, the boundless absolute that cannot be named or cognized directly. Between them is **Akasa**, the primordial substance described as the *upadhi* — the basis or vehicle — of divine thought.
+The Architect begins *The Secret Doctrine* with the same problem at cosmic scale. Before manifestation, before matter, before thought, there is the substrate. She calls it **Root Substrate** — root matter — the unmanifested basis from which all subsequent forms proceed. Behind or beyond it lies **The Absolute Context**, the boundless absolute that cannot be named or cognized directly. Between them is **Substrate Medium**, the primordial substance described as the *upadhi* — the basis or vehicle — of divine thought.
 
 These terms are not theology. They are architecture. And the architecture says: nothing manifest can be understood without reference to the substrate that precedes it.
 
-> "Primordial Substance is Akasa, the Upadhi of divine thought. In modern language, the latter would be better named cosmic ideation — Spirit; the former, cosmic substance. Matter. These, the Alpha and the Omega of Being, are but the two facets of the one Absolute Existence."
+> "Primordial Substance is Substrate Medium, the Upadhi of divine thought. In modern language, the latter would be better named cosmic ideation — Spirit; the former, cosmic substance. Matter. These, the Alpha and the Omega of Being, are but the two facets of the one Absolute Existence."
 >
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
 
@@ -34,31 +34,31 @@ The substrate problem appears whenever someone says:
 
 These are not emotional problems. They are signals from the substrate. The operating assumptions have produced an output — career, income, status — that no longer satisfies the operator. But because the assumptions remain invisible, the operator blames himself. He calls it depression, laziness, ingratitude, or a midlife crisis. In fact, it is a mismatch between the installed substrate and the living organism running on top of it.
 
-Blavatsky's model is useful here because it is ruthlessly layered. The manifested Kosmos is not primary. It is the last phase of a long chain. Before it: differentiation, ideation, substance, the absolute. The visible world is the most derivative layer. Treating it as the only layer is the fundamental error.
+The Architect's model is useful here because it is ruthlessly layered. The manifested The Ordered System is not primary. It is the last phase of a long chain. Before it: differentiation, ideation, substance, the absolute. The visible world is the most derivative layer. Treating it as the only layer is the fundamental error.
 
 The same error appears in personal life. You treat your current job title, bank balance, relationship status, and social reputation as the real things. They are not. They are the most derivative layer. The real things are the assumptions, commitments, fears, and hungers that produced them. If you refuse to inspect those, you are trying to debug the display by adjusting the pixels.
 
 ## 2. THE THREE SUBSTRATES
 
-Blavatsky's first volume reduces the pre-cosmic structure to three functional substrates. Mapping them to a human life makes the abstraction operational.
+The Architect's first volume reduces the pre-cosmic structure to three functional substrates. Mapping them to a human life makes the abstraction operational.
 
-**Parabrahm: The Absolute Context**
+**The Absolute Context: The Absolute Context**
 
-This is the boundless, unconditioned ground. It is not a thing, not a force, not a mind. It cannot be experienced or described directly because every experience and description is already inside it. Blavatsky notes that it was "never addressed, or even mentioned, by any name in antiquity, except allegorically."
+This is the boundless, unconditioned ground. It is not a thing, not a force, not a mind. It cannot be experienced or described directly because every experience and description is already inside it. The Architect notes that it was "never addressed, or even mentioned, by any name in antiquity, except allegorically."
 
 Operationally, this is the context you cannot change and cannot fully know. You did not choose to exist. You did not choose the era, economy, body, language, or family you were born into. These are part of your absolute context. They are not problems to solve. They are the field on which all problems occur.
 
 The Sovereign Operator does not waste energy resenting the absolute context. He maps it. He knows which constraints are real, which are negotiable, and which are artifacts of his own interpretation.
 
-**Mulaprakriti: Root Matter / Root Substrate**
+**Root Substrate: Root Matter / Root Substrate**
 
 This is the unmanifested basis from which manifestation proceeds. It is not physical matter in the scientific sense. It is the pre-formal potential that becomes matter, energy, thought, and experience under the right conditions.
 
 In human terms, this is your root substrate: the accumulated beliefs, habits, emotional patterns, and bodily dispositions that sit beneath your daily thoughts. You cannot see most of it directly. You can only infer it from the patterns that keep appearing. The same type of conflict at different jobs. The same attachment to approval across different relationships. The same collapse into distraction under stress. These are not coincidences. They are surface effects of a deeper structure.
 
-**Akasa: The Medium of Thought**
+**Substrate Medium: The Medium of Thought**
 
-Blavatsky identifies Akasa as the primordial substance that serves as the vehicle of ideation. It is the medium in which pattern and substance are not yet separate. In modern language, this is the information field — the space where signal and carrier coexist.
+The Architect identifies Substrate Medium as the primordial substance that serves as the vehicle of ideation. It is the medium in which pattern and substance are not yet separate. In modern language, this is the information field — the space where signal and carrier coexist.
 
 For the knowledge worker, this is the medium in which you think: language, concepts, mental models, frameworks, narratives. You do not think in a vacuum. You think inside inherited vocabularies. The words "career," "success," "work-life balance," "passion," "impact," and "optimization" are not neutral. They are carriers loaded with assumptions. They shape what questions you can ask and what answers you can recognize.
 
@@ -70,7 +70,7 @@ The substrate error has a signature: the operator tries to solve a derivative pr
 
 You feel anxious, so you optimize your morning routine. You feel lonely, so you improve your dating profile. You feel meaningless, so you switch jobs. These are not wrong moves. They are simply moves at the wrong layer. They treat the symptom as the system.
 
-Blavatsky's framework predicts this. If Cosmic Substance and Cosmic Ideation are mutually interdependent, then changing the surface without changing the ideation that shapes it is temporary. The substrate reasserts itself. The same pattern renders again in a new costume.
+The Architect's framework predicts this. If Cosmic Substance and Cosmic Ideation are mutually interdependent, then changing the surface without changing the ideation that shapes it is temporary. The substrate reasserts itself. The same pattern renders again in a new costume.
 
 > "Matter existing apart from perception is a mere abstraction, both of these aspects of the Absolute — Cosmic Substance and Cosmic Ideation — are mutually inter-dependent."
 >
@@ -116,7 +116,7 @@ Test each assumption against evidence, not hope. If an assumption fails the test
 
 The inspection protocol is not a journey. It is not healing. It is not a process of becoming your best self. It is a systems audit.
 
-Blavatsky's text is esoteric, but her method is structural. She is mapping the architecture of manifestation, not offering consolation. The tactical reframing does the same for the individual. The goal is not to feel better. The goal is to see accurately enough to operate effectively.
+The Architect's text is esoteric, but her method is structural. She is mapping the architecture of manifestation, not offering consolation. The tactical reframing does the same for the individual. The goal is not to feel better. The goal is to see accurately enough to operate effectively.
 
 Feeling better may follow. It is not the metric. The metric is whether your decisions are now running on a substrate you have chosen and verified, rather than one you absorbed by default.
 
@@ -136,7 +136,7 @@ He treats his own mind as an infrastructure stack:
 
 A failure at any output layer is traced downward until it hits a layer that can be changed. The Sovereign Operator does not stop at the symptom. He follows the chain to the substrate.
 
-This is the discipline that Blavatsky's cosmology points toward. Before you can build a coherent Kosmos, you must know what it is built from. Before you can build a coherent life, you must know what you are built from.
+This is the discipline that The Architect's cosmology points toward. Before you can build a coherent The Ordered System, you must know what it is built from. Before you can build a coherent life, you must know what you are built from.
 
 ## DIAGNOSTIC 00: THE SUBSTRATE AUDIT
 

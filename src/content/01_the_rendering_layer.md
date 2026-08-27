@@ -7,9 +7,9 @@ The previous chapter established that you are running on a substrate you did not
 
 This is not a spiritual claim. It is a structural claim about how experience is produced. Before any object appears in consciousness, a process of rendering has already occurred. Raw sensory data is filtered, categorized, narrativized, and valenced. By the time you notice a "bad meeting" or a "difficult colleague," your nervous system has already completed several layers of processing. You are not seeing the meeting. You are seeing the rendered output.
 
-Blavatsky's cosmology begins at exactly this point. Before manifestation, before matter, before the observable universe, there is Cosmic Ideation. She identifies it explicitly as the "Universal Mind." It is not a mind inside the universe. It is the mind-like function that produces the universe as an experienceable form.
+The Architect's cosmology begins at exactly this point. Before manifestation, before matter, before the observable universe, there is Cosmic Ideation. She identifies it explicitly as the "Universal Mind." It is not a mind inside the universe. It is the mind-like function that produces the universe as an experienceable form.
 
-> "Manvantaric impulse commences with the re-awakening of Cosmic Ideation (the 'Universal Mind') concurrently with, and parallel to the primary emergence of Cosmic Substance — the latter being the manvantaric vehicle of the former."
+> "Active-cycle impulse commences with the re-awakening of Cosmic Ideation (the 'Universal Mind') concurrently with, and parallel to the primary emergence of Cosmic Substance — the latter being the Active-cycle vehicle of the former."
 >
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
 
@@ -25,18 +25,18 @@ The passive receiver model produces helplessness. If the world is fixed and the 
 
 This is the Reactive Human stance. It is not wrong in physics. It is wrong in operations. The Sovereign Operator does not deny that external events occur. He denies that his experience of those events is determined solely by the events themselves.
 
-Blavatsky makes the same distinction. She does not deny cosmic substance. She denies that substance is primary. The substance is the vehicle. The ideation is the directive function. Without the directive function, substance remains inert, undifferentiated, and unexperienced.
+The Architect makes the same distinction. She does not deny cosmic substance. She denies that substance is primary. The substance is the vehicle. The ideation is the directive function. Without the directive function, substance remains inert, undifferentiated, and unexperienced.
 
-> "During the period of Universal Pralaya, Cosmic Ideation is non-existent; and the variously differentiated states of Cosmic Substance are resolved back again into the primary state of abstract potential objectivity.">
+> "During the period of Universal Recovery Cycle, Cosmic Ideation is non-existent; and the variously differentiated states of Cosmic Substance are resolved back again into the primary state of abstract potential objectivity.">
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
 
-Pralaya is the cosmic night: no ideation, no differentiation, no manifest experience. Substance still exists, but as abstract potential — not as anything specific, not as anything perceivable. Consciousness is what turns potential into scene.
+Recovery Cycle is the cosmic night: no ideation, no differentiation, no manifest experience. Substance still exists, but as abstract potential — not as anything specific, not as anything perceivable. Consciousness is what turns potential into scene.
 
 For the knowledge worker, this maps precisely. Without attention and interpretation, your inbox is just pixels. Without framing, your calendar is just shapes. Without valuation, your promotion is just a change in a database field. The meaning is not in the object. The meaning is in the rendering.
 
 ## 2. THE CENTRAL POINT
 
-Blavatsky describes the first moment of manifestation as the appearance of a central point within boundless darkness. This is not a physical point in space. Space itself has not yet differentiated. It is the first localization of consciousness — the moment at which the absolute becomes aware of itself as a point of view.
+The Architect describes the first moment of manifestation as the appearance of a central point within boundless darkness. This is not a physical point in space. Space itself has not yet differentiated. It is the first localization of consciousness — the moment at which the absolute becomes aware of itself as a point of view.
 
 > "Its place is found in the old primitive symbolic charts, in which it is represented by a boundless darkness, on the ground of which appears the first central point in white — thus symbolizing coeval and co-eternal Spirit-Matter making its appearance in the phenomenal world, before its first differentiation.">
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
@@ -51,7 +51,7 @@ The Sovereign Operator chooses the center. He does not choose once and forget. H
 
 ## 3. SUBJECT AND OBJECT AS A SINGLE PROCESS
 
-Blavatsky rejects the naive split between subject and object. She treats them as two aspects of a single process whose cooperation produces the phenomenon.
+The Architect rejects the naive split between subject and object. She treats them as two aspects of a single process whose cooperation produces the phenomenon.
 
 > "The phenomena of our plane are the creation of the perceiving Ego — the modifications of its own subjectivity... the co-operation of Subject and Object results in the Sense-object or phenomenon.">
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
@@ -64,7 +64,7 @@ It also explains why knowledge workers are so vulnerable to burnout, cynicism, a
 
 ## 4. FROM UNIVERSAL MIND TO ATTENTION ARCHITECTURE
 
-Blavatsky equates Cosmic Ideation with the "Universal Mind." This term is easy to misread as theological — a single cosmic intelligence directing everything. The tactical reading is different.
+The Architect equates Cosmic Ideation with the "Universal Mind." This term is easy to misread as theological — a single cosmic intelligence directing everything. The tactical reading is different.
 
 The Universal Mind is the architecture of attention at scale. It is the pattern-recognition and pattern-generation function that structures all manifestation. It is not a person. It is a process. And that process has a local instance: your own mind.
 
@@ -77,16 +77,16 @@ This is why the Sovereign Operator works on attention before working on circumst
 
 This passage describes the ideation function as a light that is always present but not always visible. Human perception cannot directly perceive the source. It perceives the effects: the awakened energy, the stirred forces, the organized chaos. The same is true of attention. You do not see attention itself. You see what attention illuminates.
 
-## 5. FOhat AND THE BRIDGE TO ACTION
+## 5. Execution Force AND THE BRIDGE TO ACTION
 
-Blavatsky does not stop at ideation. She adds the bridge between ideation and manifestation: Fohat, the cosmic energy that impels substance into activity. Fohat is the force that turns pattern into process.
+The Architect does not stop at ideation. She adds the bridge between ideation and manifestation: Execution Force, the cosmic energy that impels substance into activity. Execution Force is the force that turns pattern into process.
 
-> "Then, absolute wisdom mirrors itself in its Ideation; which, by a transcendental process... results in Cosmic Energy (Fohat). Thrilling through the bosom of inert Substance, Fohat impels it to activity, and guides its primary differentiations on all the Seven planes of Cosmic Consciousness.">
+> "Then, absolute wisdom mirrors itself in its Ideation; which, by a transcendental process... results in Cosmic Energy (Execution Force). Thrilling through the bosom of inert Substance, Execution Force impels it to activity, and guides its primary differentiations on all the Seven planes of Cosmic Consciousness.">
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
 
-Tactically, Fohat is the execution layer. It is the energy that converts a rendered intention into a material effect. A plan without Fohat is a dead image. A desire without Fohat is a fantasy. A realization without Fohat changes nothing.
+Tactically, Execution Force is the execution layer. It is the energy that converts a rendered intention into a material effect. A plan without Execution Force is a dead image. A desire without Execution Force is a fantasy. A realization without Execution Force changes nothing.
 
-For the knowledge worker, Fohat is the force that moves from "I see it" to "I did it." It is not willpower in the popular sense. It is the coherent mobilization of bodily, emotional, and cognitive energy behind a rendered intention. When your rendering is clear and your energy is aligned, action follows with low friction. When your rendering is confused or your energy is fragmented, action requires force and produces drag.
+For the knowledge worker, Execution Force is the force that moves from "I see it" to "I did it." It is not willpower in the popular sense. It is the coherent mobilization of bodily, emotional, and cognitive energy behind a rendered intention. When your rendering is clear and your energy is aligned, action follows with low friction. When your rendering is confused or your energy is fragmented, action requires force and produces drag.
 
 The rendering layer and the execution layer are coupled. A muddy rendering produces muddy action. A clear rendering produces efficient action. The Sovereign Operator therefore cleans the rendering engine before pushing for output.
 
@@ -98,7 +98,7 @@ The unexamined rendering produces a closed loop. You render the world as hostile
 
 This is why positive thinking and self-help affirmation are weak countermeasures. They attempt to change the rendered output by painting over it. They do not address the rendering engine. The Sovereign Operator does not try to believe better things. He inspects and recalibrates the engine that produces belief.
 
-Blavatsky warns against the same error at the cosmic scale. The manifested universe is not an illusion in the sense that it does not exist. It is an illusion in the sense that it is a rendering whose nature depends on the perceiver's plane of consciousness.
+The Architect warns against the same error at the cosmic scale. The manifested universe is not an illusion in the sense that it does not exist. It is an illusion in the sense that it is a rendering whose nature depends on the perceiver's plane of consciousness.
 
 > "From the stand-point of the highest metaphysics, the whole Universe, gods included, is an illusion; but the illusion of him who is in himself an illusion differs on every plane of consciousness.">
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
@@ -143,9 +143,9 @@ This does not mean you can render anything you want. The rendering engine has co
 
 The same job can be rendered as exploitation or craft. The same relationship can be rendered as burden or alliance. The same body can be rendered as failing vessel or instrument. The same history can be rendered as wound or curriculum. None of these renderings are "true" in a final sense. They are operational. The question is not which is true. The question is which produces the desired output.
 
-Blavatsky's model gives this move metaphysical depth. The universe itself, she argues, is a rendered form of consciousness. Your local rendering is not an exception. It is the same process at a smaller scale.
+The Architect's model gives this move metaphysical depth. The universe itself, she argues, is a rendered form of consciousness. Your local rendering is not an exception. It is the same process at a smaller scale.
 
-> "The atoms emanated from the Central Point emanate in their turn new centers of energy, which, under the potential breath of Fohat, begin their work from within without, and multiply other minor centers.">
+> "The atoms emanated from the Central Point emanate in their turn new centers of energy, which, under the potential breath of Execution Force, begin their work from within without, and multiply other minor centers.">
 > — *Archival Protocol: The Secret Doctrine, Vol. I, Cosmogenesis*
 
 Every center of consciousness is itself a source. It does not merely receive. It emanates. Your attention, your framing, your rendering — these are not passive effects. They are active forces that shape what happens next. The world you render is the world you act into.

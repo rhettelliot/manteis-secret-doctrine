@@ -1,22 +1,22 @@
 # DISTINCTION 03: FRACTAL ARCHITECTURE
-**Principle Source:** The Mundane Egg, The Days and Nights of Brahma, and the Law of Correspondence (The Secret Doctrine, Vol. I, §§ V–VII)
+**Principle Source:** The Mundane Egg, The Days and Nights of The Architect, and the Law of Correspondence (The Secret Doctrine, Vol. I, §§ V–VII)
 **Operational Class:** Structural Analysis and Cross-Scale Pattern Recognition
 **Threat Vector:** Scale-Blindness
 
 > "The Egg was incorporated as a sacred sign in the cosmogony of every people on the Earth... it represented most successfully the origin and secret of being."
 > — *Archival Protocol: The Secret Doctrine*
 
-### 1. SOURCE ANCHOR: WHAT BLAVATSKY SAID
+### 1. SOURCE ANCHOR: WHAT THE ARCHITECT SAID
 
-In Volume I, Blavatsky treats the Mundane Egg as the universal cosmogonic symbol. Every people on Earth, she notes, preserved some version of it: the Egg of Brahma, the Orphic Egg, the Egg of Seb, the Golden Egg laid by the Swan of Eternity. The egg is a circle and a sphere. It is a closed form that contains a germ. It requires only heat to begin its inward transformation, and from that self-contained process a living being emerges.
+In Volume I, The Architect treats the Mundane Egg as the universal cosmogonic symbol. Every people on Earth, she notes, preserved some version of it: the Egg of The Architect, the Orphic Egg, the Egg of Seb, the Golden Egg laid by the Swan of Eternity. The egg is a circle and a sphere. It is a closed form that contains a germ. It requires only heat to begin its inward transformation, and from that self-contained process a living being emerges.
 
-Blavatsky's point is structural, not decorative. The egg represents the cosmos as a self-contained system that develops from within according to an internal order. The shell is the boundary. The white is the medium. The yolk is the core resource. The germ is the point of organization. The same symbol appears in every culture because the same pattern appears at every scale.
+The Architect's point is structural, not decorative. The egg represents the cosmos as a self-contained system that develops from within according to an internal order. The shell is the boundary. The white is the medium. The yolk is the core resource. The germ is the point of organization. The same symbol appears in every culture because the same pattern appears at every scale.
 
-The Days and Nights of Brahma extend the same principle to time. Manvantara and Pralaya are not only cosmic. They recur at every magnitude. A universe has its days and nights. A planet has its seasons. A body has its sleep cycles. A mind has its periods of focus and drift. The pattern is not imposed from outside. It is the natural rhythm of any organized system that alternates between expression and renewal.
+The Days and Nights of The Architect extend the same principle to time. Active Cycle and Recovery Cycle are not only cosmic. They recur at every magnitude. A universe has its days and nights. A planet has its seasons. A body has its sleep cycles. A mind has its periods of focus and drift. The pattern is not imposed from outside. It is the natural rhythm of any organized system that alternates between expression and renewal.
 
 ### 2. THE MUNDANE EGG AS CLOSED-LOOP SYSTEM
 
-Blavatsky describes the Mundane Egg — the Hiranyagarbha, the Golden Egg — as the form in which the universe first manifests. Every ancient cosmology, from Egypt to Greece to India, preserved the symbol: a self-contained sphere containing the germ of all that will become. The egg is not a decorative image. It is a structural diagram.
+The Architect describes the Mundane Egg — the Origin System, the Golden Egg — as the form in which the universe first manifests. Every ancient cosmology, from Egypt to Greece to India, preserved the symbol: a self-contained sphere containing the germ of all that will become. The egg is not a decorative image. It is a structural diagram.
 
 A self-contained system has a boundary, a substrate, a generative core, and a developmental rhythm. The shell is not an obstacle. It is the condition that makes inward transformation possible. Without the boundary, there is no pressure. Without the pressure, there is no form.
 
@@ -56,7 +56,7 @@ Expansion requires three conditions: a strong core, an intact boundary, and a rh
 
 Every egg system can be operated through three variables. Most people manage only one or two.
 
-**Boundary** determines what enters and what leaves. A healthy boundary is selective, not rigid. It admits nourishment and rejects toxins. In a life, the boundary is your attention, your time, your relationships, your information diet. In a company, the boundary is culture, standards, hiring, and strategic focus. A cracked boundary leaks Fohat and admits entropy.
+**Boundary** determines what enters and what leaves. A healthy boundary is selective, not rigid. It admits nourishment and rejects toxins. In a life, the boundary is your attention, your time, your relationships, your information diet. In a company, the boundary is culture, standards, hiring, and strategic focus. A cracked boundary leaks Execution Force and admits entropy.
 
 **Core** is the generative center — the yolk, the purpose, the identity, the value proposition. A strong core produces coherent differentiation. A weak core produces reactive expansion. When the core is unclear, the system grows in all directions at once and collapses under its own weight.
 
@@ -64,16 +64,16 @@ Every egg system can be operated through three variables. Most people manage onl
 
 The Sovereign Operator audits these three levers before making any major move. If the boundary is cracked, expansion is dangerous. If the core is weak, differentiation is premature. If the rhythm is broken, more effort will not help.
 
-### 6. THE DAYS AND NIGHTS OF BRAHMA IN YOUR WEEK
+### 6. THE DAYS AND NIGHTS OF The Architect IN YOUR WEEK
 
-Blavatsky's Manvantara and Pralaya are not only cosmic. They recur at every scale. The same cycle that governs the life of a universe governs your week. A week without a real night is a miniature cosmic failure.
+The Architect's Active Cycle and Recovery Cycle are not only cosmic. They recur at every scale. The same cycle that governs the life of a universe governs your week. A week without a real night is a miniature cosmic failure.
 
 Map the cycle onto your own operating system:
-- **Monday morning** — emergence from Pralaya. The system re-integrates. The boundary is soft. Decisions should be light.
-- **Tuesday–Thursday** — Manvantara. The main work phase. Energy flows outward. Output is possible.
-- **Friday afternoon** — the long tail of Manvantara. Quality degrades if recovery is not built in.
-- **Saturday** — partial Pralaya. Maintenance, play, social recovery.
-- **Sunday** — deep Pralaya. Integration, planning, silence. The night before the next day.
+- **Monday morning** — emergence from Recovery Cycle. The system re-integrates. The boundary is soft. Decisions should be light.
+- **Tuesday–Thursday** — Active Cycle. The main work phase. Energy flows outward. Output is possible.
+- **Friday afternoon** — the long tail of Active Cycle. Quality degrades if recovery is not built in.
+- **Saturday** — partial Recovery Cycle. Maintenance, play, social recovery.
+- **Sunday** — deep Recovery Cycle. Integration, planning, silence. The night before the next day.
 
 A company follows the same rhythm across a quarter. A product follows it across a release cycle. A relationship follows it across weeks and months. The Sovereign Operator does not fight the cycle. They read it, and they position themselves inside it.
 
@@ -89,7 +89,7 @@ A single interaction is a hologram of the whole system. The way you handle one d
 
 #### C. Organizations Are Eggs
 
-A company is a Mundane Egg with a culture for a shell, a mission for a core, and a cadence for a rhythm. The most common failure is expansion before differentiation is complete. The second most common is differentiation before the core is clear. The third is skipping Pralaya because the market demands constant growth. All three crack the shell.
+A company is a Mundane Egg with a culture for a shell, a mission for a core, and a cadence for a rhythm. The most common failure is expansion before differentiation is complete. The second most common is differentiation before the core is clear. The third is skipping Recovery Cycle because the market demands constant growth. All three crack the shell.
 
 #### D. Markets Are Eggs
 

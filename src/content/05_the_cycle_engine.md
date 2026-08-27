@@ -11,7 +11,7 @@
 
 The standard view of life is linear: events happen, you learn, you move on. This view is half-true at best. In practice, the same friction points return. The same relationship dynamic reappears with new actors. The same career mistake repeats under a new title. The same emotional wound is triggered by a different trigger.
 
-Blavatsky's doctrine of Rounds reframes this perfectly. A Round is a cycle of progression through all the planes or globes of a system. The same Monad — the same essential self — returns again and again, each time at a slightly deeper level. The lesson is not learned once and forgotten. It is cycled through until the pattern is complete.
+The Architect's doctrine of Rounds reframes this perfectly. A Round is a cycle of progression through all the planes or globes of a system. The same Monad — the same essential self — returns again and again, each time at a slightly deeper level. The lesson is not learned once and forgotten. It is cycled through until the pattern is complete.
 
 Operationally: **you do not have many problems. You have a small number of patterns that keep showing up in different costumes.**
 
@@ -32,7 +32,7 @@ A loop is closed not by "fixing the outcome" but by **changing the response**. T
 
 ## 3. THE MONAD: YOUR CORE IDENTITY ACROSS CAREER CHANGES
 
-Blavatsky's Monad is described as the essential self, impersonal on the higher planes, the thread on which the various personalities are strung. The Monad is not the job title, the relationship status, the bank account, or the public reputation. It is the persistent identity that moves through all of them.
+The Architect's Monad is described as the essential self, impersonal on the higher planes, the thread on which the various personalities are strung. The Monad is not the job title, the relationship status, the bank account, or the public reputation. It is the persistent identity that moves through all of them.
 
 For the secular operator, the Monad is the **core pattern-recognizer** — the part of you that persists across contexts and notices when the same cycle is beginning again. It is the witness that says: "This feels like last time." It is the part that can observe the pattern from outside the role being played.
 
@@ -122,7 +122,7 @@ The Cycle Engine does not close a loop the first time the operator responds diff
 
 The operator must therefore treat the Cycle Engine with patience. The cycle will return. Each return is a test of whether the new response has become the default or whether it was a one-time override. The engine is not cruel; it is thorough. It will keep running until the new response is more stable than the old one.
 
-This is why insight without repetition fails. Understanding the pattern is Round One. Changing the response once is Round Two. Changing it consistently enough that the old pathway atrophies is Round Three. The cycle ends when the new behavior becomes the Skandha — when the corrected response is now the automatic one.
+This is why insight without repetition fails. Understanding the pattern is Round One. Changing the response once is Round Two. Changing it consistently enough that the old pathway atrophies is Round Three. The cycle ends when the new behavior becomes the Accumulated Disposition — when the corrected response is now the automatic one.
 
 **Operational Imperative:**
 Do not declare a cycle closed after one success. Declare it closed when the trigger no longer produces a measurable physiological or behavioral reaction. That is the proof that the engine has accepted the update.

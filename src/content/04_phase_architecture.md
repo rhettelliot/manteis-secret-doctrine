@@ -11,7 +11,7 @@
 
 The standard view of a career is a ladder: climb from junior to senior, accumulate credentials, then retire. This view is useful for payroll systems and useless for the operator who wants to understand why the rules keep changing underneath them.
 
-Blavatsky's seven Root Races are not anthropological categories. Read operationally, they describe seven distinct phases of an evolving system. Each phase has its own dominant principle, its own success metrics, and its own failure mode. The operator who treats Phase 3 rules as valid in Phase 5 will plateau. The operator who tries to live in Phase 6 before completing Phase 4 will float. The operator who gets stuck in Phase 4 will self-destruct.
+The Architect's seven Root Races are not anthropological categories. Read operationally, they describe seven distinct phases of an evolving system. Each phase has its own dominant principle, its own success metrics, and its own failure mode. The operator who treats Phase 3 rules as valid in Phase 5 will plateau. The operator who tries to live in Phase 6 before completing Phase 4 will float. The operator who gets stuck in Phase 4 will self-destruct.
 
 The reframing is direct:
 
@@ -40,7 +40,7 @@ In Phase I–II, the only valid metric is **contact with reality**. You are not 
 
 ## 3. PHASE III — THE LEMURIAN PHASE: EXECUTION WITHOUT REFLECTION
 
-Race III is the Lemurian phase. Blavatsky describes it as the phase where man becomes fully physical but not yet fully mental. The body works. The senses operate. The being builds, procreates, and survives. But the higher reflective principle has not yet fully activated.
+Race III is the Lemurian phase. The Architect describes it as the phase where man becomes fully physical but not yet fully mental. The body works. The senses operate. The being builds, procreates, and survives. But the higher reflective principle has not yet fully activated.
 
 In career terms, this is the pure execution phase. The operator is competent. They are producing. They are valued for output: lines of code, deals closed, cases handled, products shipped. The feedback loop is strong. The rewards are immediate.
 
@@ -55,7 +55,7 @@ But the Lemurian phase has a hidden failure mode: **mechanization**. The operato
 - Your identity is tied to a role rather than to a set of capabilities.
 
 **Operational Imperative:**
-In Phase III, the task is not to produce more. The task is to install the **Manas layer** — the reflective mind that can observe the production system from outside it. This means:
+In Phase III, the task is not to produce more. The task is to install the **Cognitive Layer layer** — the reflective mind that can observe the production system from outside it. This means:
 1. Documenting your work so you can see the pattern, not just the task.
 2. Seeking exposure to strategy, even if it is above your formal role.
 3. Building a portfolio of decisions, not just a portfolio of outputs.
@@ -65,7 +65,7 @@ The operator who completes Phase III is not the one who works the hardest. It is
 
 ## 4. PHASE IV — THE ATLANTEAN PHASE: THE DANGER ZONE OF PEAK MATERIALISM
 
-Race IV is the Atlantean phase, and it is the central warning of the entire anthropogenic cycle. Blavatsky describes the Atlanteans as the race that reached the peak of material power — advanced science, global communication, monumental architecture, and centralized control — and destroyed themselves through the misuse of that power. Their civilization had everything except the wisdom to govern it.
+Race IV is the Atlantean phase, and it is the central warning of the entire anthropogenic cycle. The Architect describes the Atlanteans as the race that reached the peak of material power — advanced science, global communication, monumental architecture, and centralized control — and destroyed themselves through the misuse of that power. Their civilization had everything except the wisdom to govern it.
 
 For the knowledge worker, the Atlantean phase is the danger zone of peak material success. It is the phase where income, status, access, and influence are all rising. The operator has "made it." The system is producing at scale. The temptation is to believe that the same expansion can continue indefinitely.
 
@@ -89,7 +89,7 @@ The Atlantean phase does not have to end in collapse. The correction is the deli
 4. **Restore the reflective layer.** The Atlantean falls because reflection is sacrificed for speed. Reinstall regular review: weekly, quarterly, annually.
 5. **Identify the off-ramp.** The operator must know what "enough" looks like before the market tells them.
 
-Blavatsky's Atlantis collapsed because it confused the possession of power with the capacity to wield it. The modern operator collapses for the same reason. The correction is not to renounce success; it is to **govern it**.
+The Architect's Atlantis collapsed because it confused the possession of power with the capacity to wield it. The modern operator collapses for the same reason. The correction is not to renounce success; it is to **govern it**.
 
 ## 5. PHASE V — THE ARYAN PHASE: MENTAL MASTERY AND STRATEGIC ARCHITECTURE
 

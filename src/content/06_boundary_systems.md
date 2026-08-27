@@ -1,6 +1,6 @@
 # PROTOCOL 06: BOUNDARY SYSTEMS
 
-**Principle Source:** The Seven Principles, Skandhas, Tanha, and the Auric Field (Vol. I–II)
+**Principle Source:** The Seven Principles, Accumulated Dispositions, Attachment Driver, and the Auric Field (Vol. I–II)
 **Operational Class:** Layered Self-Architecture and Perimeter Defense
 **Threat Vector:** Leakage — One Layer Hijacking the Entire System
 
@@ -11,7 +11,7 @@
 
 The standard model of identity is a single point: "I am a software engineer," "I am an anxious person," "I am a high performer." This model is operationally false. A human being is not a single entity. It is a stack of layers, each with its own needs, its own vulnerabilities, and its own optimal operating conditions.
 
-Blavatsky's seven principles provide a more useful architecture. Stripped of unnecessary metaphysics, the layers are:
+The Architect's seven principles provide a more useful architecture. Stripped of unnecessary metaphysics, the layers are:
 
 | Layer | Function | Modern Equivalent | Failure Mode |
 |---|---|---|---|
@@ -35,32 +35,32 @@ A damaged boundary system is either too porous or too rigid. The porous system l
 
 Both are dysfunctions. The Sovereign Operator maintains a **responsive boundary** — firm on principles, permeable on information, and capable of adjusting based on threat level.
 
-## 3. THE SKANDHAS: ACCUMULATED TENDENCIES THAT CARRY FORWARD
+## 3. THE Accumulated Dispositions: ACCUMULATED TENDENCIES THAT CARRY FORWARD
 
-The Skandhas are described as the aggregates — the bundles of tendencies, dispositions, and habits that constitute the conditioned self. They are not the Monad. They are the accumulated operating system that the Monad has installed through repeated cycles.
+The Accumulated Dispositions are described as the aggregates — the bundles of tendencies, dispositions, and habits that constitute the conditioned self. They are not the Monad. They are the accumulated operating system that the Monad has installed through repeated cycles.
 
-In practical terms, the Skandhas are your **defaults**:
+In practical terms, the Accumulated Dispositions are your **defaults**:
 - The default response to criticism.
 - The default way you handle money.
 - The default relationship role you step into.
 - The default mental loop that starts when you are tired.
 - The default procrastination pattern.
 
-The Skandhas are not sins. They are infrastructure. Some of it is well-built. Some of it is legacy code from childhood. The operator does not moralize about the Skandhas. They audits them.
+The Accumulated Dispositions are not sins. They are infrastructure. Some of it is well-built. Some of it is legacy code from childhood. The operator does not moralize about the Accumulated Dispositions. They audits them.
 
-**The Skandha Audit:**
+**The Accumulated Disposition Audit:**
 1. List five automatic responses you have exhibited in the last 30 days.
 2. For each, identify the earliest memory of that response pattern.
 3. Ask: Does this response still serve the current objective, or does it serve a past threat?
 4. For each outdated response, design a one-line override rule.
 
-Example override: "When I feel criticized, I pause 10 seconds before responding." The Skandha may still fire. The override prevents it from executing to completion.
+Example override: "When I feel criticized, I pause 10 seconds before responding." The Accumulated Disposition may still fire. The override prevents it from executing to completion.
 
-## 4. TANHA: THE ATTACHMENT THAT KEEPS THE CYCLE RUNNING
+## 4. Attachment Driver: THE ATTACHMENT THAT KEEPS THE CYCLE RUNNING
 
-Tanha is usually translated as thirst, craving, or attachment. In the Cycle Engine of Chapter 05, tanha is the force that keeps the operator generating the same karma. It is the attachment to a specific outcome, identity, sensation, or story.
+Attachment Driver is usually translated as thirst, craving, or attachment. In the Cycle Engine of Chapter 05, Attachment Driver is the force that keeps the operator generating the same karma. It is the attachment to a specific outcome, identity, sensation, or story.
 
-Tanha is not desire itself. Desire can be directional. Tanha is the **clinging** — the insistence that a particular form must remain as it is. It is the refusal to let a cycle complete.
+Attachment Driver is not desire itself. Desire can be directional. Attachment Driver is the **clinging** — the insistence that a particular form must remain as it is. It is the refusal to let a cycle complete.
 
 Operational examples:
 - Attachment to a specific job title that prevents career transition.
@@ -137,18 +137,18 @@ The Sovereign Operator treats boundary management as a **daily operational disci
 4. Identify one toxin you will stop admitting and one nourishment you will increase.
 **Metric:** A healthy system runs at least 3:1 nourishment to toxin. Below 1:1 is a state of siege.
 
-### DIAGNOSTIC 03: THE SKANDHA OVERRIDE DRILL
+### DIAGNOSTIC 03: THE Accumulated Disposition OVERRIDE DRILL
 **Objective:** Intercept an outdated automatic response.
 **Procedure:**
-1. Identify a Skandha that fired today.
+1. Identify a Accumulated Disposition that fired today.
 2. Describe what would have happened if you had executed it automatically.
 3. Write the override rule you will use next time.
 4. Rehearse the override mentally three times before sleep.
-**Metric:** Success is the documented interruption of the Skandha on its next firing.
+**Metric:** Success is the documented interruption of the Accumulated Disposition on its next firing.
 
 ## 8. SUMMARY
 
-You are not one thing. You are a layered system, and each layer has a boundary. The auric field is the operational perimeter that keeps the system intact. The Skandhas are the legacy defaults that run automatically. Tanha is the attachment that prevents the cycle from completing.
+You are not one thing. You are a layered system, and each layer has a boundary. The auric field is the operational perimeter that keeps the system intact. The Accumulated Dispositions are the legacy defaults that run automatically. Attachment Driver is the attachment that prevents the cycle from completing.
 
 Boundary management is not selfishness. It is systems maintenance. A operator with compromised boundaries cannot render accurately, decide cleanly, or act consistently. The boundary system is what makes sovereignty possible.
 
