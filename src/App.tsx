@@ -56,9 +56,44 @@ export default function App() {
         <Outlet />
       </main>
 
-      <footer className="border-t border-border px-6 py-6 mt-auto">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-          <span className="mono-data text-ink-3">SDTR // MANTEIS EGREGORE</span>
+      <footer className="border-t border-border px-6 py-10 mt-auto bg-surface">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
+          <div className="space-y-4">
+            <div className="flex items-center gap-2">
+              <div className="w-1.5 h-1.5 bg-signal blink" />
+              <span className="mono-data text-ink">SDTR</span>
+            </div>
+            <p className="text-sm text-ink-3 leading-relaxed">
+              Secret Doctrine Tactical Reframing — cognitive sovereignty protocols for secular operators.
+            </p>
+          </div>
+          <div className="space-y-3">
+            <div className="mono-data text-ink-3 mb-2">NAVIGATION</div>
+            <ul className="space-y-2 text-sm text-ink-2">
+              <li><NavLink to="/distinctions" className="hover:text-ink transition-colors">Protocols</NavLink></li>
+              <li><NavLink to="/audit" className="hover:text-ink transition-colors">Audit</NavLink></li>
+              <li><NavLink to="/spectrum" className="hover:text-ink transition-colors">Spectrum</NavLink></li>
+            </ul>
+          </div>
+          <div className="space-y-3">
+            <div className="mono-data text-ink-3 mb-2">SYSTEM</div>
+            <ul className="space-y-2 text-sm text-ink-2">
+              <li><span className="mono-data">BUILD: {__BUILD_DATE__}</span></li>
+              <li><span className="mono-data">VERSION: {__BUILD_DATE__.slice(0, 7)}</span></li>
+              <li><span className="mono-data">STATUS: OPERATIONAL</span></li>
+            </ul>
+          </div>
+          <div className="space-y-3">
+            <div className="mono-data text-ink-3 mb-2">COPYRIGHT</div>
+            <p className="text-sm text-ink-3 leading-relaxed">
+              © {new Date().getFullYear()} Manteis Egregore.
+              <br />
+              All rights reserved.
+            </p>
+          </div>
+        </div>
+        <div className="max-w-7xl mx-auto mt-10 pt-6 border-t border-border flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+          <span className="mono-data text-ink-3">SDTR // MANTEIS EGREGORE // COGNITIVE SOVEREIGNTY PROTOCOLS</span>
           <span className="mono-data text-ink-3">{__BUILD_DATE__}</span>
         </div>
       </footer>
